@@ -1,0 +1,78 @@
+version,2.3.0
+info,balls_per_over,6
+info,team,Mumbai Indians
+info,team,Punjab Kings
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/04/16
+info,event,Indian Premier League
+info,match_id,1529267
+info,match_type,T20
+info,overs,20
+info,match_number,24
+info,venue,"Wankhede Stadium, Mumbai"
+info,city,Mumbai
+info,toss_winner,Punjab Kings
+info,toss_decision,field
+info,player_of_match,Arshdeep Singh
+info,umpire,HDPK Dharmasena
+info,umpire,M Krishnadas
+info,reserve_umpire,HAS Khalid
+info,tv_umpire,VK Sharma
+info,match_referee,V Narayan Kutty
+info,target_overs,2,20
+info,target_runs,2,196
+info,winner,Punjab Kings
+info,winner_wickets,7
+info,player,Mumbai Indians,AM Ghazanfar
+info,player,Mumbai Indians,RD Rickelton
+info,player,Mumbai Indians,Q de Kock
+info,player,Mumbai Indians,SA Yadav
+info,player,Mumbai Indians,Naman Dhir
+info,player,Mumbai Indians,HH Pandya
+info,player,Mumbai Indians,SE Rutherford
+info,player,Mumbai Indians,Tilak Varma
+info,player,Mumbai Indians,Mayank Rawat
+info,player,Mumbai Indians,SN Thakur
+info,player,Mumbai Indians,DL Chahar
+info,player,Mumbai Indians,JJ Bumrah
+info,player,Punjab Kings,Priyansh Arya
+info,player,Punjab Kings,P Simran Singh
+info,player,Punjab Kings,C Connolly
+info,player,Punjab Kings,SS Iyer
+info,player,Punjab Kings,MP Stoinis
+info,player,Punjab Kings,Shashank Singh
+info,player,Punjab Kings,M Jansen
+info,player,Punjab Kings,XC Bartlett
+info,player,Punjab Kings,Vijaykumar Vyshak
+info,player,Punjab Kings,Arshdeep Singh
+info,player,Punjab Kings,YS Chahal
+info,registry,people,AM Ghazanfar,9ca68676
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,C Connolly,fe366f34
+info,registry,people,DL Chahar,23eeb873
+info,registry,people,HAS Khalid,291ded7c
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,M Krishnadas,e298c588
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,Mayank Rawat,2b801189
+info,registry,people,Naman Dhir,fffa744b
+info,registry,people,P Simran Singh,9418198b
+info,registry,people,Priyansh Arya,b5797845
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SE Rutherford,d014d5ac
+info,registry,people,SN Thakur,1abb78f8
+info,registry,people,SS Iyer,85ec8e33
+info,registry,people,Shashank Singh,26989d80
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,V Narayan Kutty,4bacee3d
+info,registry,people,VK Sharma,a7a49df4
+info,registry,people,Vijaykumar Vyshak,54e52590
+info,registry,people,XC Bartlett,3b53243a
+info,registry,people,YS Chahal,57ee1fde

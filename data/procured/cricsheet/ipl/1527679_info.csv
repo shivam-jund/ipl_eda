@@ -1,0 +1,80 @@
+version,2.3.0
+info,balls_per_over,6
+info,team,Sunrisers Hyderabad
+info,team,Kolkata Knight Riders
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/04/02
+info,event,Indian Premier League
+info,match_id,1527679
+info,match_type,T20
+info,overs,20
+info,match_number,6
+info,venue,"Eden Gardens, Kolkata"
+info,city,Kolkata
+info,toss_winner,Kolkata Knight Riders
+info,toss_decision,field
+info,player_of_match,Nithish Kumar Reddy
+info,umpire,MV Saidharshan Kumar
+info,umpire,Vinod Seshan
+info,reserve_umpire,Anish Sahasrabudhe
+info,tv_umpire,Nitin Menon
+info,match_referee,Shakti Singh
+info,target_overs,2,20
+info,target_runs,2,227
+info,winner,Sunrisers Hyderabad
+info,winner_runs,65
+info,player,Sunrisers Hyderabad,TM Head
+info,player,Sunrisers Hyderabad,Abhishek Sharma
+info,player,Sunrisers Hyderabad,Ishan Kishan
+info,player,Sunrisers Hyderabad,H Klaasen
+info,player,Sunrisers Hyderabad,Aniket Verma
+info,player,Sunrisers Hyderabad,Nithish Kumar Reddy
+info,player,Sunrisers Hyderabad,S Arora
+info,player,Sunrisers Hyderabad,Harsh Dubey
+info,player,Sunrisers Hyderabad,Shivang Kumar
+info,player,Sunrisers Hyderabad,JD Unadkat
+info,player,Sunrisers Hyderabad,DA Payne
+info,player,Sunrisers Hyderabad,E Malinga
+info,player,Kolkata Knight Riders,FH Allen
+info,player,Kolkata Knight Riders,AM Rahane
+info,player,Kolkata Knight Riders,A Raghuvanshi
+info,player,Kolkata Knight Riders,C Green
+info,player,Kolkata Knight Riders,RK Singh
+info,player,Kolkata Knight Riders,AS Roy
+info,player,Kolkata Knight Riders,Ramandeep Singh
+info,player,Kolkata Knight Riders,SP Narine
+info,player,Kolkata Knight Riders,Kartik Tyagi
+info,player,Kolkata Knight Riders,VG Arora
+info,player,Kolkata Knight Riders,CV Varun
+info,player,Kolkata Knight Riders,B Muzarabani
+info,registry,people,A Raghuvanshi,d7017798
+info,registry,people,AM Rahane,29e95537
+info,registry,people,AS Roy,e4cdf230
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,Aniket Verma,a3b0600d
+info,registry,people,Anish Sahasrabudhe,2892df67
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,C Green,eaa76d3c
+info,registry,people,CV Varun,5b7ab5a9
+info,registry,people,DA Payne,6c79c098
+info,registry,people,E Malinga,5750bcb4
+info,registry,people,FH Allen,bf74b130
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,Harsh Dubey,25228673
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,JD Unadkat,1e66c162
+info,registry,people,Kartik Tyagi,5d2eea49
+info,registry,people,MV Saidharshan Kumar,54b6007b
+info,registry,people,Nithish Kumar Reddy,aad0c365
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,Ramandeep Singh,be24ead0
+info,registry,people,S Arora,d7423da1
+info,registry,people,SP Narine,9d430b40
+info,registry,people,Shakti Singh,eb90d319
+info,registry,people,Shivang Kumar,7b44eb3e
+info,registry,people,TM Head,12b610c2
+info,registry,people,VG Arora,7c3b3b78
+info,registry,people,Vinod Seshan,a3357a27

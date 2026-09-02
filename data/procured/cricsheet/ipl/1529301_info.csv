@@ -1,0 +1,80 @@
+version,2.3.0
+info,balls_per_over,6
+info,team,Punjab Kings
+info,team,Mumbai Indians
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/05/14
+info,event,Indian Premier League
+info,match_id,1529301
+info,match_type,T20
+info,overs,20
+info,match_number,58
+info,venue,"Himachal Pradesh Cricket Association Stadium, Dharamsala"
+info,city,Dharamsala
+info,toss_winner,Mumbai Indians
+info,toss_decision,field
+info,player_of_match,Tilak Varma
+info,umpire,Bhavesh Patel
+info,umpire,KN Ananthapadmanabhan
+info,reserve_umpire,P Joshi
+info,tv_umpire,AT Holdstock
+info,match_referee,P Dharmani
+info,target_overs,2,20
+info,target_runs,2,201
+info,winner,Mumbai Indians
+info,winner_wickets,6
+info,player,Punjab Kings,Priyansh Arya
+info,player,Punjab Kings,P Simran Singh
+info,player,Punjab Kings,C Connolly
+info,player,Punjab Kings,SS Iyer
+info,player,Punjab Kings,Suryansh Shedge
+info,player,Punjab Kings,Shashank Singh
+info,player,Punjab Kings,Azmatullah Omarzai
+info,player,Punjab Kings,M Jansen
+info,player,Punjab Kings,Vishnu Vinod
+info,player,Punjab Kings,XC Bartlett
+info,player,Punjab Kings,Arshdeep Singh
+info,player,Punjab Kings,YS Chahal
+info,player,Mumbai Indians,Raghu Sharma
+info,player,Mumbai Indians,RG Sharma
+info,player,Mumbai Indians,RD Rickelton
+info,player,Mumbai Indians,Naman Dhir
+info,player,Mumbai Indians,Tilak Varma
+info,player,Mumbai Indians,SE Rutherford
+info,player,Mumbai Indians,WG Jacks
+info,player,Mumbai Indians,RA Bawa
+info,player,Mumbai Indians,C Bosch
+info,player,Mumbai Indians,DL Chahar
+info,player,Mumbai Indians,SN Thakur
+info,player,Mumbai Indians,JJ Bumrah
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,Azmatullah Omarzai,8f6dd463
+info,registry,people,Bhavesh Patel,ee03dc30
+info,registry,people,C Bosch,172dff15
+info,registry,people,C Connolly,fe366f34
+info,registry,people,DL Chahar,23eeb873
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,Naman Dhir,fffa744b
+info,registry,people,P Dharmani,eaa90ab4
+info,registry,people,P Joshi,ffc0e370
+info,registry,people,P Simran Singh,9418198b
+info,registry,people,Priyansh Arya,b5797845
+info,registry,people,RA Bawa,ba6b2f91
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RG Sharma,740742ef
+info,registry,people,Raghu Sharma,5b615e7c
+info,registry,people,SE Rutherford,d014d5ac
+info,registry,people,SN Thakur,1abb78f8
+info,registry,people,SS Iyer,85ec8e33
+info,registry,people,Shashank Singh,26989d80
+info,registry,people,Suryansh Shedge,970ddd24
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,Vishnu Vinod,0494fa6e
+info,registry,people,WG Jacks,9caf69a1
+info,registry,people,XC Bartlett,3b53243a
+info,registry,people,YS Chahal,57ee1fde

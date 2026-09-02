@@ -1,0 +1,80 @@
+version,2.3.0
+info,balls_per_over,6
+info,team,Sunrisers Hyderabad
+info,team,Royal Challengers Bengaluru
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/03/28
+info,event,Indian Premier League
+info,match_id,1527674
+info,match_type,T20
+info,overs,20
+info,match_number,1
+info,venue,"M Chinnaswamy Stadium, Bengaluru"
+info,city,Bengaluru
+info,toss_winner,Royal Challengers Bengaluru
+info,toss_decision,field
+info,player_of_match,JA Duffy
+info,umpire,J Madanagopal
+info,umpire,UV Gandhe
+info,reserve_umpire,A Bengeri
+info,tv_umpire,R Pandit
+info,match_referee,J Srinath
+info,target_overs,2,20
+info,target_runs,2,202
+info,winner,Royal Challengers Bengaluru
+info,winner_wickets,6
+info,player,Sunrisers Hyderabad,TM Head
+info,player,Sunrisers Hyderabad,Abhishek Sharma
+info,player,Sunrisers Hyderabad,Ishan Kishan
+info,player,Sunrisers Hyderabad,Nithish Kumar Reddy
+info,player,Sunrisers Hyderabad,H Klaasen
+info,player,Sunrisers Hyderabad,S Arora
+info,player,Sunrisers Hyderabad,Aniket Verma
+info,player,Sunrisers Hyderabad,Harsh Dubey
+info,player,Sunrisers Hyderabad,HV Patel
+info,player,Sunrisers Hyderabad,DA Payne
+info,player,Sunrisers Hyderabad,JD Unadkat
+info,player,Sunrisers Hyderabad,E Malinga
+info,player,Royal Challengers Bengaluru,JA Duffy
+info,player,Royal Challengers Bengaluru,PD Salt
+info,player,Royal Challengers Bengaluru,V Kohli
+info,player,Royal Challengers Bengaluru,D Padikkal
+info,player,Royal Challengers Bengaluru,RM Patidar
+info,player,Royal Challengers Bengaluru,JM Sharma
+info,player,Royal Challengers Bengaluru,TH David
+info,player,Royal Challengers Bengaluru,R Shepherd
+info,player,Royal Challengers Bengaluru,KH Pandya
+info,player,Royal Challengers Bengaluru,B Kumar
+info,player,Royal Challengers Bengaluru,Abhinandan Singh
+info,player,Royal Challengers Bengaluru,Suyash Sharma
+info,registry,people,A Bengeri,c109497d
+info,registry,people,Abhinandan Singh,82c10dac
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,Aniket Verma,a3b0600d
+info,registry,people,B Kumar,2e81a32d
+info,registry,people,D Padikkal,2c25d4f5
+info,registry,people,DA Payne,6c79c098
+info,registry,people,E Malinga,5750bcb4
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,HV Patel,f986ca1a
+info,registry,people,Harsh Dubey,25228673
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JA Duffy,dadbdb68
+info,registry,people,JD Unadkat,1e66c162
+info,registry,people,JM Sharma,800d2d97
+info,registry,people,KH Pandya,5b8c830e
+info,registry,people,Nithish Kumar Reddy,aad0c365
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,R Pandit,8a604384
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RM Patidar,c740ea83
+info,registry,people,S Arora,d7423da1
+info,registry,people,Suyash Sharma,9440ef41
+info,registry,people,TH David,f1f99156
+info,registry,people,TM Head,12b610c2
+info,registry,people,UV Gandhe,43dd4011
+info,registry,people,V Kohli,ba607b88

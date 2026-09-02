@@ -1,0 +1,81 @@
+version,2.3.0
+info,balls_per_over,6
+info,team,Lucknow Super Giants
+info,team,Chennai Super Kings
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/05/10
+info,event,Indian Premier League
+info,match_id,1529296
+info,match_type,T20
+info,overs,20
+info,match_number,53
+info,venue,"MA Chidambaram Stadium, Chepauk, Chennai"
+info,city,Chennai
+info,toss_winner,Chennai Super Kings
+info,toss_decision,field
+info,player_of_match,J Overton
+info,umpire,Amit Rana
+info,umpire,K Kelkar
+info,reserve_umpire,T Ematty
+info,tv_umpire,A Bengeri
+info,match_referee,DS Manohar
+info,target_overs,2,20
+info,target_runs,2,204
+info,winner,Chennai Super Kings
+info,winner_wickets,5
+info,player,Lucknow Super Giants,JP Inglis
+info,player,Lucknow Super Giants,MR Marsh
+info,player,Lucknow Super Giants,N Pooran
+info,player,Lucknow Super Giants,RR Pant
+info,player,Lucknow Super Giants,AK Markram
+info,player,Lucknow Super Giants,Akshat Raghuwanshi
+info,player,Lucknow Super Giants,Shahbaz Ahmed
+info,player,Lucknow Super Giants,Himmat Singh
+info,player,Lucknow Super Giants,Mohammed Shami
+info,player,Lucknow Super Giants,Avesh Khan
+info,player,Lucknow Super Giants,Prince Yadav
+info,player,Lucknow Super Giants,DS Rathi
+info,player,Chennai Super Kings,Mukesh Choudhary
+info,player,Chennai Super Kings,SV Samson
+info,player,Chennai Super Kings,RD Gaikwad
+info,player,Chennai Super Kings,Urvil Patel
+info,player,Chennai Super Kings,Kartik Sharma
+info,player,Chennai Super Kings,D Brevis
+info,player,Chennai Super Kings,S Dube
+info,player,Chennai Super Kings,PR Veer
+info,player,Chennai Super Kings,J Overton
+info,player,Chennai Super Kings,AJ Hosein
+info,player,Chennai Super Kings,Noor Ahmad
+info,player,Chennai Super Kings,A Kamboj
+info,registry,people,A Bengeri,c109497d
+info,registry,people,A Kamboj,fcc21ace
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AK Markram,6a26221c
+info,registry,people,Akshat Raghuwanshi,d8d67045
+info,registry,people,Amit Rana,f5db088b
+info,registry,people,Avesh Khan,eef2536f
+info,registry,people,D Brevis,844e79d1
+info,registry,people,DS Manohar,b35f3ac8
+info,registry,people,DS Rathi,13fc5c6d
+info,registry,people,Himmat Singh,ebcfef83
+info,registry,people,J Overton,59559bc2
+info,registry,people,JP Inglis,989889ff
+info,registry,people,K Kelkar,1d88908d
+info,registry,people,Kartik Sharma,7b679de5
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,Mukesh Choudhary,765a4731
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,Noor Ahmad,efc04be7
+info,registry,people,PR Veer,e148e6bd
+info,registry,people,Prince Yadav,80b2fb19
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,RR Pant,919a3be2
+info,registry,people,S Dube,a4e37e47
+info,registry,people,SN Khan,f088b960
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,Shahbaz Ahmed,f9e6e7ef
+info,registry,people,T Ematty,e995f8e9
+info,registry,people,Urvil Patel,cf59b3f0

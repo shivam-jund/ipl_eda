@@ -1,0 +1,80 @@
+version,2.3.0
+info,balls_per_over,6
+info,team,Lucknow Super Giants
+info,team,Mumbai Indians
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/05/04
+info,event,Indian Premier League
+info,match_id,1529290
+info,match_type,T20
+info,overs,20
+info,match_number,47
+info,venue,"Wankhede Stadium, Mumbai"
+info,city,Mumbai
+info,toss_winner,Mumbai Indians
+info,toss_decision,field
+info,player_of_match,RD Rickelton
+info,umpire,AK Argal
+info,umpire,SJ Nogajski
+info,reserve_umpire,T Ematty
+info,tv_umpire,VK Sharma
+info,match_referee,R Seth
+info,target_overs,2,20
+info,target_runs,2,229
+info,winner,Mumbai Indians
+info,winner_wickets,6
+info,player,Lucknow Super Giants,M Siddharth
+info,player,Lucknow Super Giants,MR Marsh
+info,player,Lucknow Super Giants,JP Inglis
+info,player,Lucknow Super Giants,N Pooran
+info,player,Lucknow Super Giants,RR Pant
+info,player,Lucknow Super Giants,AK Markram
+info,player,Lucknow Super Giants,Akshat Raghuwanshi
+info,player,Lucknow Super Giants,Himmat Singh
+info,player,Lucknow Super Giants,Mohammed Shami
+info,player,Lucknow Super Giants,Mohsin Khan
+info,player,Lucknow Super Giants,Avesh Khan
+info,player,Lucknow Super Giants,Prince Yadav
+info,player,Mumbai Indians,Raghu Sharma
+info,player,Mumbai Indians,RD Rickelton
+info,player,Mumbai Indians,RG Sharma
+info,player,Mumbai Indians,Tilak Varma
+info,player,Mumbai Indians,SA Yadav
+info,player,Mumbai Indians,Naman Dhir
+info,player,Mumbai Indians,WG Jacks
+info,player,Mumbai Indians,RA Bawa
+info,player,Mumbai Indians,C Bosch
+info,player,Mumbai Indians,DL Chahar
+info,player,Mumbai Indians,JJ Bumrah
+info,player,Mumbai Indians,AM Ghazanfar
+info,registry,people,AK Argal,0ee78cf3
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AM Ghazanfar,9ca68676
+info,registry,people,Akshat Raghuwanshi,d8d67045
+info,registry,people,Avesh Khan,eef2536f
+info,registry,people,C Bosch,172dff15
+info,registry,people,DL Chahar,23eeb873
+info,registry,people,Himmat Singh,ebcfef83
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,JP Inglis,989889ff
+info,registry,people,M Siddharth,cf0ccafa
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,Mohsin Khan,c33d8116
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,Naman Dhir,fffa744b
+info,registry,people,Prince Yadav,80b2fb19
+info,registry,people,R Seth,540a44ba
+info,registry,people,RA Bawa,ba6b2f91
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RR Pant,919a3be2
+info,registry,people,Raghu Sharma,5b615e7c
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SJ Nogajski,9b3f9323
+info,registry,people,T Ematty,e995f8e9
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,VK Sharma,a7a49df4
+info,registry,people,WG Jacks,9caf69a1

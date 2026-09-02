@@ -1,0 +1,80 @@
+version,2.3.0
+info,balls_per_over,6
+info,team,Gujarat Titans
+info,team,Royal Challengers Bengaluru
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/04/24
+info,event,Indian Premier League
+info,match_id,1529277
+info,match_type,T20
+info,overs,20
+info,match_number,34
+info,venue,"M Chinnaswamy Stadium, Bengaluru"
+info,city,Bengaluru
+info,toss_winner,Royal Challengers Bengaluru
+info,toss_decision,field
+info,player_of_match,V Kohli
+info,umpire,Amit Rana
+info,umpire,J Madanagopal
+info,reserve_umpire,K Kelkar
+info,tv_umpire,UV Gandhe
+info,match_referee,J Srinath
+info,target_overs,2,20
+info,target_runs,2,206
+info,winner,Royal Challengers Bengaluru
+info,winner_wickets,5
+info,player,Gujarat Titans,R Tewatia
+info,player,Gujarat Titans,B Sai Sudharsan
+info,player,Gujarat Titans,Shubman Gill
+info,player,Gujarat Titans,JC Buttler
+info,player,Gujarat Titans,Washington Sundar
+info,player,Gujarat Titans,JO Holder
+info,player,Gujarat Titans,M Shahrukh Khan
+info,player,Gujarat Titans,Rashid Khan
+info,player,Gujarat Titans,MJ Suthar
+info,player,Gujarat Titans,K Rabada
+info,player,Gujarat Titans,Mohammed Siraj
+info,player,Gujarat Titans,M Prasidh Krishna
+info,player,Royal Challengers Bengaluru,Suyash Sharma
+info,player,Royal Challengers Bengaluru,JG Bethell
+info,player,Royal Challengers Bengaluru,V Kohli
+info,player,Royal Challengers Bengaluru,D Padikkal
+info,player,Royal Challengers Bengaluru,RM Patidar
+info,player,Royal Challengers Bengaluru,JM Sharma
+info,player,Royal Challengers Bengaluru,TH David
+info,player,Royal Challengers Bengaluru,KH Pandya
+info,player,Royal Challengers Bengaluru,R Shepherd
+info,player,Royal Challengers Bengaluru,B Kumar
+info,player,Royal Challengers Bengaluru,JR Hazlewood
+info,player,Royal Challengers Bengaluru,Rasikh Salam
+info,registry,people,Amit Rana,f5db088b
+info,registry,people,B Kumar,2e81a32d
+info,registry,people,B Sai Sudharsan,d5130a30
+info,registry,people,D Padikkal,2c25d4f5
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JG Bethell,3c55c703
+info,registry,people,JM Sharma,800d2d97
+info,registry,people,JO Holder,0f721006
+info,registry,people,JR Hazlewood,03806cf8
+info,registry,people,K Kelkar,1d88908d
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KH Pandya,5b8c830e
+info,registry,people,M Prasidh Krishna,85e0cf10
+info,registry,people,M Shahrukh Khan,7dcb9bc9
+info,registry,people,MJ Suthar,025c4400
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,R Tewatia,39a2dfa8
+info,registry,people,RM Patidar,c740ea83
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,Rasikh Salam,b8527c3d
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,Suyash Sharma,9440ef41
+info,registry,people,TH David,f1f99156
+info,registry,people,UV Gandhe,43dd4011
+info,registry,people,V Kohli,ba607b88
+info,registry,people,Washington Sundar,f19ccfad

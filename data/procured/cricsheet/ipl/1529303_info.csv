@@ -1,0 +1,81 @@
+version,2.3.0
+info,balls_per_over,6
+info,team,Kolkata Knight Riders
+info,team,Gujarat Titans
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/05/16
+info,event,Indian Premier League
+info,match_id,1529303
+info,match_type,T20
+info,overs,20
+info,match_number,60
+info,venue,"Eden Gardens, Kolkata"
+info,city,Kolkata
+info,toss_winner,Gujarat Titans
+info,toss_decision,field
+info,player_of_match,SP Narine
+info,umpire,K Swaroopanand
+info,umpire,VK Sharma
+info,reserve_umpire,AK Argal
+info,tv_umpire,SJ Nogajski
+info,match_referee,R Seth
+info,target_overs,2,20
+info,target_runs,2,248
+info,winner,Kolkata Knight Riders
+info,winner_runs,29
+info,player,Kolkata Knight Riders,M Pathirana
+info,player,Kolkata Knight Riders,AM Rahane
+info,player,Kolkata Knight Riders,FH Allen
+info,player,Kolkata Knight Riders,A Raghuvanshi
+info,player,Kolkata Knight Riders,C Green
+info,player,Kolkata Knight Riders,MK Pandey
+info,player,Kolkata Knight Riders,RK Singh
+info,player,Kolkata Knight Riders,SP Narine
+info,player,Kolkata Knight Riders,AS Roy
+info,player,Kolkata Knight Riders,CV Varun
+info,player,Kolkata Knight Riders,SR Dubey
+info,player,Kolkata Knight Riders,Kartik Tyagi
+info,player,Gujarat Titans,Mohammed Siraj
+info,player,Gujarat Titans,B Sai Sudharsan
+info,player,Gujarat Titans,Shubman Gill
+info,player,Gujarat Titans,N Sindhu
+info,player,Gujarat Titans,JC Buttler
+info,player,Gujarat Titans,R Tewatia
+info,player,Gujarat Titans,JO Holder
+info,player,Gujarat Titans,Washington Sundar
+info,player,Gujarat Titans,Rashid Khan
+info,player,Gujarat Titans,K Rabada
+info,player,Gujarat Titans,Arshad Khan
+info,player,Gujarat Titans,R Sai Kishore
+info,registry,people,A Raghuvanshi,d7017798
+info,registry,people,AK Argal,0ee78cf3
+info,registry,people,AM Rahane,29e95537
+info,registry,people,AS Roy,e4cdf230
+info,registry,people,Arshad Khan,12314277
+info,registry,people,B Sai Sudharsan,d5130a30
+info,registry,people,C Green,eaa76d3c
+info,registry,people,CV Varun,5b7ab5a9
+info,registry,people,FH Allen,bf74b130
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JO Holder,0f721006
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,K Swaroopanand,aa2a4962
+info,registry,people,Kartik Tyagi,5d2eea49
+info,registry,people,M Pathirana,64839cb3
+info,registry,people,MK Pandey,93b4fc78
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,N Sindhu,3cea23da
+info,registry,people,R Sai Kishore,c7a995d3
+info,registry,people,R Seth,540a44ba
+info,registry,people,R Tewatia,39a2dfa8
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,Ramandeep Singh,be24ead0
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,SJ Nogajski,9b3f9323
+info,registry,people,SP Narine,9d430b40
+info,registry,people,SR Dubey,11061889
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,VK Sharma,a7a49df4
+info,registry,people,Washington Sundar,f19ccfad

@@ -1,0 +1,80 @@
+version,2.3.0
+info,balls_per_over,6
+info,team,Chennai Super Kings
+info,team,Lucknow Super Giants
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/05/15
+info,event,Indian Premier League
+info,match_id,1529302
+info,match_type,T20
+info,overs,20
+info,match_number,59
+info,venue,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+info,city,Lucknow
+info,toss_winner,Lucknow Super Giants
+info,toss_decision,field
+info,player_of_match,MR Marsh
+info,umpire,T Ematty
+info,umpire,UV Gandhe
+info,reserve_umpire,K Kelkar
+info,tv_umpire,J Madanagopal
+info,match_referee,DS Manohar
+info,target_overs,2,20
+info,target_runs,2,188
+info,winner,Lucknow Super Giants
+info,winner_wickets,7
+info,player,Chennai Super Kings,Gurjapneet Singh
+info,player,Chennai Super Kings,SV Samson
+info,player,Chennai Super Kings,RD Gaikwad
+info,player,Chennai Super Kings,Urvil Patel
+info,player,Chennai Super Kings,Kartik Sharma
+info,player,Chennai Super Kings,D Brevis
+info,player,Chennai Super Kings,S Dube
+info,player,Chennai Super Kings,PR Veer
+info,player,Chennai Super Kings,A Kamboj
+info,player,Chennai Super Kings,Noor Ahmad
+info,player,Chennai Super Kings,SH Johnson
+info,player,Chennai Super Kings,Mukesh Choudhary
+info,player,Lucknow Super Giants,Prince Yadav
+info,player,Lucknow Super Giants,MR Marsh
+info,player,Lucknow Super Giants,JP Inglis
+info,player,Lucknow Super Giants,N Pooran
+info,player,Lucknow Super Giants,Abdul Samad
+info,player,Lucknow Super Giants,MD Choudhary
+info,player,Lucknow Super Giants,AK Markram
+info,player,Lucknow Super Giants,RR Pant
+info,player,Lucknow Super Giants,Shahbaz Ahmed
+info,player,Lucknow Super Giants,Mohammed Shami
+info,player,Lucknow Super Giants,MP Yadav
+info,player,Lucknow Super Giants,Akash Singh
+info,registry,people,A Kamboj,fcc21ace
+info,registry,people,AK Markram,6a26221c
+info,registry,people,Abdul Samad,8e514b4c
+info,registry,people,Akash Singh,b483905d
+info,registry,people,D Brevis,844e79d1
+info,registry,people,DS Manohar,b35f3ac8
+info,registry,people,Gurjapneet Singh,cc61ee8f
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,JP Inglis,989889ff
+info,registry,people,K Kelkar,1d88908d
+info,registry,people,Kartik Sharma,7b679de5
+info,registry,people,MD Choudhary,1c84109e
+info,registry,people,MP Yadav,b1ad996b
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,Mukesh Choudhary,765a4731
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,Noor Ahmad,efc04be7
+info,registry,people,PR Veer,e148e6bd
+info,registry,people,Prince Yadav,80b2fb19
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,RR Pant,919a3be2
+info,registry,people,S Dube,a4e37e47
+info,registry,people,SH Johnson,83c3e8e3
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,Shahbaz Ahmed,f9e6e7ef
+info,registry,people,T Ematty,e995f8e9
+info,registry,people,UV Gandhe,43dd4011
+info,registry,people,Urvil Patel,cf59b3f0

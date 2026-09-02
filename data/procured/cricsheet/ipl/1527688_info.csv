@@ -1,0 +1,80 @@
+version,2.3.0
+info,balls_per_over,6
+info,team,Kolkata Knight Riders
+info,team,Lucknow Super Giants
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/04/09
+info,event,Indian Premier League
+info,match_id,1527688
+info,match_type,T20
+info,overs,20
+info,match_number,15
+info,venue,"Eden Gardens, Kolkata"
+info,city,Kolkata
+info,toss_winner,Lucknow Super Giants
+info,toss_decision,field
+info,player_of_match,MD Choudhary
+info,umpire,AT Holdstock
+info,umpire,A Totre
+info,reserve_umpire,Abhijit Bhattacharya
+info,tv_umpire,KN Ananthapadmanabhan
+info,match_referee,Prakash Bhatt
+info,target_overs,2,20
+info,target_runs,2,182
+info,winner,Lucknow Super Giants
+info,winner_wickets,3
+info,player,Kolkata Knight Riders,VG Arora
+info,player,Kolkata Knight Riders,AM Rahane
+info,player,Kolkata Knight Riders,FH Allen
+info,player,Kolkata Knight Riders,A Raghuvanshi
+info,player,Kolkata Knight Riders,C Green
+info,player,Kolkata Knight Riders,RK Singh
+info,player,Kolkata Knight Riders,R Powell
+info,player,Kolkata Knight Riders,Ramandeep Singh
+info,player,Kolkata Knight Riders,AS Roy
+info,player,Kolkata Knight Riders,SP Narine
+info,player,Kolkata Knight Riders,Navdeep Saini
+info,player,Kolkata Knight Riders,Kartik Tyagi
+info,player,Lucknow Super Giants,M Siddharth
+info,player,Lucknow Super Giants,MR Marsh
+info,player,Lucknow Super Giants,AK Markram
+info,player,Lucknow Super Giants,RR Pant
+info,player,Lucknow Super Giants,A Badoni
+info,player,Lucknow Super Giants,N Pooran
+info,player,Lucknow Super Giants,Abdul Samad
+info,player,Lucknow Super Giants,MD Choudhary
+info,player,Lucknow Super Giants,Mohammed Shami
+info,player,Lucknow Super Giants,Avesh Khan
+info,player,Lucknow Super Giants,DS Rathi
+info,player,Lucknow Super Giants,Prince Yadav
+info,registry,people,A Badoni,872b03f7
+info,registry,people,A Raghuvanshi,d7017798
+info,registry,people,A Totre,b1d7d7bc
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AM Rahane,29e95537
+info,registry,people,AS Roy,e4cdf230
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,Abdul Samad,8e514b4c
+info,registry,people,Abhijit Bhattacharya,59ec9638
+info,registry,people,Avesh Khan,eef2536f
+info,registry,people,C Green,eaa76d3c
+info,registry,people,DS Rathi,13fc5c6d
+info,registry,people,FH Allen,bf74b130
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,Kartik Tyagi,5d2eea49
+info,registry,people,M Siddharth,cf0ccafa
+info,registry,people,MD Choudhary,1c84109e
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,Navdeep Saini,21d4e29b
+info,registry,people,Prakash Bhatt,f848ab0b
+info,registry,people,Prince Yadav,80b2fb19
+info,registry,people,R Powell,650d5e49
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,RR Pant,919a3be2
+info,registry,people,Ramandeep Singh,be24ead0
+info,registry,people,SP Narine,9d430b40
+info,registry,people,VG Arora,7c3b3b78

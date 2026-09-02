@@ -1,0 +1,80 @@
+version,2.3.0
+info,balls_per_over,6
+info,team,Lucknow Super Giants
+info,team,Delhi Capitals
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/04/01
+info,event,Indian Premier League
+info,match_id,1527678
+info,match_type,T20
+info,overs,20
+info,match_number,5
+info,venue,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+info,city,Lucknow
+info,toss_winner,Delhi Capitals
+info,toss_decision,field
+info,player_of_match,Sameer Rizvi
+info,umpire,R Pandit
+info,umpire,UV Gandhe
+info,reserve_umpire,A Bengeri
+info,tv_umpire,J Madanagopal
+info,match_referee,J Srinath
+info,target_overs,2,20
+info,target_runs,2,142
+info,winner,Delhi Capitals
+info,winner_wickets,6
+info,player,Lucknow Super Giants,MR Marsh
+info,player,Lucknow Super Giants,RR Pant
+info,player,Lucknow Super Giants,AK Markram
+info,player,Lucknow Super Giants,A Badoni
+info,player,Lucknow Super Giants,N Pooran
+info,player,Lucknow Super Giants,Abdul Samad
+info,player,Lucknow Super Giants,MD Choudhary
+info,player,Lucknow Super Giants,Shahbaz Ahmed
+info,player,Lucknow Super Giants,Mohammed Shami
+info,player,Lucknow Super Giants,A Nortje
+info,player,Lucknow Super Giants,Mohsin Khan
+info,player,Lucknow Super Giants,Prince Yadav
+info,player,Delhi Capitals,T Natarajan
+info,player,Delhi Capitals,KL Rahul
+info,player,Delhi Capitals,P Nissanka
+info,player,Delhi Capitals,N Rana
+info,player,Delhi Capitals,Sameer Rizvi
+info,player,Delhi Capitals,AR Patel
+info,player,Delhi Capitals,T Stubbs
+info,player,Delhi Capitals,V Nigam
+info,player,Delhi Capitals,DA Miller
+info,player,Delhi Capitals,L Ngidi
+info,player,Delhi Capitals,Kuldeep Yadav
+info,player,Delhi Capitals,Mukesh Kumar
+info,registry,people,A Badoni,872b03f7
+info,registry,people,A Bengeri,c109497d
+info,registry,people,A Nortje,acdc62f5
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AR Patel,2e171977
+info,registry,people,Abdul Samad,8e514b4c
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,J Srinath,bad31fac
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,MD Choudhary,1c84109e
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,Mohsin Khan,c33d8116
+info,registry,people,Mukesh Kumar,2cffab74
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,N Rana,fb2d1dda
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,Prince Yadav,80b2fb19
+info,registry,people,R Pandit,8a604384
+info,registry,people,RR Pant,919a3be2
+info,registry,people,Sameer Rizvi,f89d3b11
+info,registry,people,Shahbaz Ahmed,f9e6e7ef
+info,registry,people,T Natarajan,ce794613
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,UV Gandhe,43dd4011
+info,registry,people,V Nigam,5ffc0565

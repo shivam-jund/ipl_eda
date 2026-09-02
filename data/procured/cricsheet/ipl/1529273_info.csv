@@ -1,0 +1,81 @@
+version,2.3.0
+info,balls_per_over,6
+info,team,Mumbai Indians
+info,team,Gujarat Titans
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/04/20
+info,event,Indian Premier League
+info,match_id,1529273
+info,match_type,T20
+info,overs,20
+info,match_number,30
+info,venue,"Narendra Modi Stadium, Ahmedabad"
+info,city,Ahmedabad
+info,toss_winner,Gujarat Titans
+info,toss_decision,field
+info,player_of_match,Tilak Varma
+info,umpire,Abhijit Bhattacharya
+info,umpire,KN Ananthapadmanabhan
+info,reserve_umpire,Bhavesh Patel
+info,tv_umpire,A Totre
+info,match_referee,Prakash Bhatt
+info,target_overs,2,20
+info,target_runs,2,200
+info,winner,Mumbai Indians
+info,winner_runs,99
+info,player,Mumbai Indians,Q de Kock
+info,player,Mumbai Indians,DV Malewar
+info,player,Mumbai Indians,Naman Dhir
+info,player,Mumbai Indians,SA Yadav
+info,player,Mumbai Indians,Tilak Varma
+info,player,Mumbai Indians,HH Pandya
+info,player,Mumbai Indians,SE Rutherford
+info,player,Mumbai Indians,MJ Santner
+info,player,Mumbai Indians,Krish Bhagat
+info,player,Mumbai Indians,JJ Bumrah
+info,player,Mumbai Indians,AM Ghazanfar
+info,player,Mumbai Indians,Ashwani Kumar
+info,player,Gujarat Titans,M Prasidh Krishna
+info,player,Gujarat Titans,B Sai Sudharsan
+info,player,Gujarat Titans,Shubman Gill
+info,player,Gujarat Titans,JC Buttler
+info,player,Gujarat Titans,Washington Sundar
+info,player,Gujarat Titans,GD Phillips
+info,player,Gujarat Titans,R Tewatia
+info,player,Gujarat Titans,M Shahrukh Khan
+info,player,Gujarat Titans,Rashid Khan
+info,player,Gujarat Titans,K Rabada
+info,player,Gujarat Titans,Ashok Sharma
+info,player,Gujarat Titans,Mohammed Siraj
+info,registry,people,A Totre,b1d7d7bc
+info,registry,people,AM Ghazanfar,9ca68676
+info,registry,people,Abhijit Bhattacharya,59ec9638
+info,registry,people,Ashok Sharma,50c09020
+info,registry,people,Ashwani Kumar,d45c29b1
+info,registry,people,B Sai Sudharsan,d5130a30
+info,registry,people,Bhavesh Patel,ee03dc30
+info,registry,people,DV Malewar,9e6032fa
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,Krish Bhagat,e48a4814
+info,registry,people,M Prasidh Krishna,85e0cf10
+info,registry,people,M Shahrukh Khan,7dcb9bc9
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,Naman Dhir,fffa744b
+info,registry,people,Prakash Bhatt,f848ab0b
+info,registry,people,Q de Kock,372455c4
+info,registry,people,R Tewatia,39a2dfa8
+info,registry,people,RA Bawa,ba6b2f91
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SE Rutherford,d014d5ac
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,Washington Sundar,f19ccfad

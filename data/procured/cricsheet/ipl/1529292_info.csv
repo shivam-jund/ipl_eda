@@ -1,0 +1,80 @@
+version,2.3.0
+info,balls_per_over,6
+info,team,Sunrisers Hyderabad
+info,team,Punjab Kings
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/05/06
+info,event,Indian Premier League
+info,match_id,1529292
+info,match_type,T20
+info,overs,20
+info,match_number,49
+info,venue,"Rajiv Gandhi International Stadium, Uppal, Hyderabad"
+info,city,Hyderabad
+info,toss_winner,Punjab Kings
+info,toss_decision,field
+info,player_of_match,PJ Cummins
+info,umpire,J Madanagopal
+info,umpire,K Kelkar
+info,reserve_umpire,Amit Rana
+info,tv_umpire,UV Gandhe
+info,match_referee,DS Manohar
+info,target_overs,2,20
+info,target_runs,2,236
+info,winner,Sunrisers Hyderabad
+info,winner_runs,33
+info,player,Sunrisers Hyderabad,Harsh Dubey
+info,player,Sunrisers Hyderabad,Abhishek Sharma
+info,player,Sunrisers Hyderabad,TM Head
+info,player,Sunrisers Hyderabad,Ishan Kishan
+info,player,Sunrisers Hyderabad,H Klaasen
+info,player,Sunrisers Hyderabad,Nithish Kumar Reddy
+info,player,Sunrisers Hyderabad,S Arora
+info,player,Sunrisers Hyderabad,R Smaran
+info,player,Sunrisers Hyderabad,PJ Cummins
+info,player,Sunrisers Hyderabad,Shivang Kumar
+info,player,Sunrisers Hyderabad,E Malinga
+info,player,Sunrisers Hyderabad,Sakib Hussain
+info,player,Punjab Kings,YS Chahal
+info,player,Punjab Kings,Priyansh Arya
+info,player,Punjab Kings,P Simran Singh
+info,player,Punjab Kings,C Connolly
+info,player,Punjab Kings,SS Iyer
+info,player,Punjab Kings,MP Stoinis
+info,player,Punjab Kings,Suryansh Shedge
+info,player,Punjab Kings,Shashank Singh
+info,player,Punjab Kings,M Jansen
+info,player,Punjab Kings,Vijaykumar Vyshak
+info,player,Punjab Kings,LH Ferguson
+info,player,Punjab Kings,Arshdeep Singh
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,Amit Rana,f5db088b
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,C Connolly,fe366f34
+info,registry,people,DS Manohar,b35f3ac8
+info,registry,people,E Malinga,5750bcb4
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,Harsh Dubey,25228673
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,K Kelkar,1d88908d
+info,registry,people,LH Ferguson,2f9d0389
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,Nithish Kumar Reddy,aad0c365
+info,registry,people,P Simran Singh,9418198b
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,Priyansh Arya,b5797845
+info,registry,people,R Smaran,c1e53c3f
+info,registry,people,S Arora,d7423da1
+info,registry,people,SS Iyer,85ec8e33
+info,registry,people,Sakib Hussain,280fff14
+info,registry,people,Shashank Singh,26989d80
+info,registry,people,Shivang Kumar,7b44eb3e
+info,registry,people,Suryansh Shedge,970ddd24
+info,registry,people,TM Head,12b610c2
+info,registry,people,UV Gandhe,43dd4011
+info,registry,people,Vijaykumar Vyshak,54e52590
+info,registry,people,YS Chahal,57ee1fde

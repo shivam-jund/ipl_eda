@@ -1,0 +1,80 @@
+version,2.3.0
+info,balls_per_over,6
+info,team,Rajasthan Royals
+info,team,Mumbai Indians
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/05/24
+info,event,Indian Premier League
+info,match_id,1529312
+info,match_type,T20
+info,overs,20
+info,match_number,69
+info,venue,"Wankhede Stadium, Mumbai"
+info,city,Mumbai
+info,toss_winner,Mumbai Indians
+info,toss_decision,field
+info,player_of_match,JC Archer
+info,umpire,R Pandit
+info,umpire,T Ematty
+info,reserve_umpire,K Kelkar
+info,tv_umpire,Amit Rana
+info,match_referee,DS Manohar
+info,target_overs,2,20
+info,target_runs,2,206
+info,winner,Rajasthan Royals
+info,winner_runs,30
+info,player,Rajasthan Royals,YBK Jaiswal
+info,player,Rajasthan Royals,V Suryavanshi
+info,player,Rajasthan Royals,Dhruv Jurel
+info,player,Rajasthan Royals,R Parag
+info,player,Rajasthan Royals,MD Shanaka
+info,player,Rajasthan Royals,D Ferreira
+info,player,Rajasthan Royals,JC Archer
+info,player,Rajasthan Royals,SB Dubey
+info,player,Rajasthan Royals,RA Jadeja
+info,player,Rajasthan Royals,N Burger
+info,player,Rajasthan Royals,Yash Raj Punja
+info,player,Rajasthan Royals,Brijesh Sharma
+info,player,Mumbai Indians,Raghu Sharma
+info,player,Mumbai Indians,RG Sharma
+info,player,Mumbai Indians,RD Rickelton
+info,player,Mumbai Indians,Naman Dhir
+info,player,Mumbai Indians,SA Yadav
+info,player,Mumbai Indians,Tilak Varma
+info,player,Mumbai Indians,WG Jacks
+info,player,Mumbai Indians,HH Pandya
+info,player,Mumbai Indians,C Bosch
+info,player,Mumbai Indians,SN Thakur
+info,player,Mumbai Indians,DL Chahar
+info,player,Mumbai Indians,AM Ghazanfar
+info,registry,people,AM Ghazanfar,9ca68676
+info,registry,people,Amit Rana,f5db088b
+info,registry,people,Brijesh Sharma,133bbd61
+info,registry,people,C Bosch,172dff15
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,DL Chahar,23eeb873
+info,registry,people,DS Manohar,b35f3ac8
+info,registry,people,Dhruv Jurel,bcf325d2
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,JC Archer,5574750c
+info,registry,people,K Kelkar,1d88908d
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,N Burger,465aa633
+info,registry,people,Naman Dhir,fffa744b
+info,registry,people,R Pandit,8a604384
+info,registry,people,R Parag,04a418e8
+info,registry,people,RA Jadeja,fe93fd9d
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RG Sharma,740742ef
+info,registry,people,Raghu Sharma,5b615e7c
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SB Dubey,6b2ff18f
+info,registry,people,SN Thakur,1abb78f8
+info,registry,people,T Ematty,e995f8e9
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,V Suryavanshi,470f446b
+info,registry,people,WG Jacks,9caf69a1
+info,registry,people,YBK Jaiswal,6c19c6e5
+info,registry,people,Yash Raj Punja,02dfebbe

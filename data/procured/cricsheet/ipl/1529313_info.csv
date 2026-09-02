@@ -1,0 +1,81 @@
+version,2.3.0
+info,balls_per_over,6
+info,team,Delhi Capitals
+info,team,Kolkata Knight Riders
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/05/24
+info,event,Indian Premier League
+info,match_id,1529313
+info,match_type,T20
+info,overs,20
+info,match_number,70
+info,venue,"Eden Gardens, Kolkata"
+info,city,Kolkata
+info,toss_winner,Kolkata Knight Riders
+info,toss_decision,field
+info,player_of_match,Kuldeep Yadav
+info,umpire,K Swaroopanand
+info,umpire,HAS Khalid
+info,reserve_umpire,M Krishnadas
+info,tv_umpire,SJ Nogajski
+info,match_referee,IR Siddiqui
+info,target_overs,2,20
+info,target_runs,2,204
+info,winner,Delhi Capitals
+info,winner_runs,40
+info,player,Delhi Capitals,Kuldeep Yadav
+info,player,Delhi Capitals,Abishek Porel
+info,player,Delhi Capitals,KL Rahul
+info,player,Delhi Capitals,SU Parakh
+info,player,Delhi Capitals,AR Patel
+info,player,Delhi Capitals,DA Miller
+info,player,Delhi Capitals,Ashutosh Sharma
+info,player,Delhi Capitals,T Stubbs
+info,player,Delhi Capitals,M Tiwari
+info,player,Delhi Capitals,Auqib Nabi
+info,player,Delhi Capitals,L Ngidi
+info,player,Delhi Capitals,MA Starc
+info,player,Kolkata Knight Riders,SP Narine
+info,player,Kolkata Knight Riders,AM Rahane
+info,player,Kolkata Knight Riders,FH Allen
+info,player,Kolkata Knight Riders,MK Pandey
+info,player,Kolkata Knight Riders,C Green
+info,player,Kolkata Knight Riders,R Powell
+info,player,Kolkata Knight Riders,RK Singh
+info,player,Kolkata Knight Riders,T Dahiya
+info,player,Kolkata Knight Riders,AS Roy
+info,player,Kolkata Knight Riders,Kartik Tyagi
+info,player,Kolkata Knight Riders,CV Varun
+info,player,Kolkata Knight Riders,SR Dubey
+info,registry,people,AM Rahane,29e95537
+info,registry,people,AR Patel,2e171977
+info,registry,people,AS Roy,e4cdf230
+info,registry,people,Abishek Porel,ad3b6e95
+info,registry,people,Ashutosh Sharma,84d9c311
+info,registry,people,Auqib Nabi,7c3c0337
+info,registry,people,C Green,eaa76d3c
+info,registry,people,CV Varun,5b7ab5a9
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,FH Allen,bf74b130
+info,registry,people,HAS Khalid,291ded7c
+info,registry,people,IR Siddiqui,6436f803
+info,registry,people,K Swaroopanand,aa2a4962
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,Kartik Tyagi,5d2eea49
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,M Krishnadas,e298c588
+info,registry,people,M Tiwari,fb5f69e4
+info,registry,people,MA Starc,3fb19989
+info,registry,people,MK Pandey,93b4fc78
+info,registry,people,R Powell,650d5e49
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,SJ Nogajski,9b3f9323
+info,registry,people,SP Narine,9d430b40
+info,registry,people,SR Dubey,11061889
+info,registry,people,SU Parakh,926c7443
+info,registry,people,Sameer Rizvi,f89d3b11
+info,registry,people,T Dahiya,f12fe2a1
+info,registry,people,T Stubbs,85b3fab2

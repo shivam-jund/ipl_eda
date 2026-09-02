@@ -1,0 +1,80 @@
+version,2.3.0
+info,balls_per_over,6
+info,team,Lucknow Super Giants
+info,team,Gujarat Titans
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/04/12
+info,event,Indian Premier League
+info,match_id,1527692
+info,match_type,T20
+info,overs,20
+info,match_number,19
+info,venue,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow"
+info,city,Lucknow
+info,toss_winner,Gujarat Titans
+info,toss_decision,field
+info,player_of_match,M Prasidh Krishna
+info,umpire,Abhijit Bhattacharya
+info,umpire,KN Ananthapadmanabhan
+info,reserve_umpire,A Totre
+info,tv_umpire,AT Holdstock
+info,match_referee,Prakash Bhatt
+info,target_overs,2,20
+info,target_runs,2,165
+info,winner,Gujarat Titans
+info,winner_wickets,7
+info,player,Lucknow Super Giants,AK Markram
+info,player,Lucknow Super Giants,MR Marsh
+info,player,Lucknow Super Giants,RR Pant
+info,player,Lucknow Super Giants,A Badoni
+info,player,Lucknow Super Giants,N Pooran
+info,player,Lucknow Super Giants,Abdul Samad
+info,player,Lucknow Super Giants,MD Choudhary
+info,player,Lucknow Super Giants,GF Linde
+info,player,Lucknow Super Giants,Mohammed Shami
+info,player,Lucknow Super Giants,Avesh Khan
+info,player,Lucknow Super Giants,DS Rathi
+info,player,Lucknow Super Giants,Prince Yadav
+info,player,Gujarat Titans,Mohammed Siraj
+info,player,Gujarat Titans,B Sai Sudharsan
+info,player,Gujarat Titans,Shubman Gill
+info,player,Gujarat Titans,JC Buttler
+info,player,Gujarat Titans,Washington Sundar
+info,player,Gujarat Titans,R Tewatia
+info,player,Gujarat Titans,GD Phillips
+info,player,Gujarat Titans,Rashid Khan
+info,player,Gujarat Titans,K Rabada
+info,player,Gujarat Titans,Ashok Sharma
+info,player,Gujarat Titans,M Prasidh Krishna
+info,player,Gujarat Titans,M Shahrukh Khan
+info,registry,people,A Badoni,872b03f7
+info,registry,people,A Totre,b1d7d7bc
+info,registry,people,AK Markram,6a26221c
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,Abdul Samad,8e514b4c
+info,registry,people,Abhijit Bhattacharya,59ec9638
+info,registry,people,Ashok Sharma,50c09020
+info,registry,people,Avesh Khan,eef2536f
+info,registry,people,B Sai Sudharsan,d5130a30
+info,registry,people,DS Rathi,13fc5c6d
+info,registry,people,GD Phillips,9a46c4e5
+info,registry,people,GF Linde,e5437608
+info,registry,people,JC Buttler,99b75528
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,M Prasidh Krishna,85e0cf10
+info,registry,people,M Shahrukh Khan,7dcb9bc9
+info,registry,people,MD Choudhary,1c84109e
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,Prakash Bhatt,f848ab0b
+info,registry,people,Prince Yadav,80b2fb19
+info,registry,people,R Tewatia,39a2dfa8
+info,registry,people,RR Pant,919a3be2
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,Washington Sundar,f19ccfad

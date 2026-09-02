@@ -1,0 +1,81 @@
+version,2.3.0
+info,balls_per_over,6
+info,team,Mumbai Indians
+info,team,Chennai Super Kings
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/05/02
+info,event,Indian Premier League
+info,match_id,1529287
+info,match_type,T20
+info,overs,20
+info,match_number,44
+info,venue,"MA Chidambaram Stadium, Chepauk, Chennai"
+info,city,Chennai
+info,toss_winner,Mumbai Indians
+info,toss_decision,bat
+info,player_of_match,RD Gaikwad
+info,umpire,KM Gandhi
+info,umpire,Nitin Menon
+info,reserve_umpire,TM Srivastava
+info,tv_umpire,Vinod Seshan
+info,match_referee,Amit Sharma
+info,target_overs,2,20
+info,target_runs,2,160
+info,winner,Chennai Super Kings
+info,winner_wickets,8
+info,player,Mumbai Indians,Raghu Sharma
+info,player,Mumbai Indians,WG Jacks
+info,player,Mumbai Indians,RD Rickelton
+info,player,Mumbai Indians,Naman Dhir
+info,player,Mumbai Indians,SA Yadav
+info,player,Mumbai Indians,Tilak Varma
+info,player,Mumbai Indians,HH Pandya
+info,player,Mumbai Indians,R Minz
+info,player,Mumbai Indians,Krish Bhagat
+info,player,Mumbai Indians,TA Boult
+info,player,Mumbai Indians,JJ Bumrah
+info,player,Mumbai Indians,AM Ghazanfar
+info,player,Chennai Super Kings,Mukesh Choudhary
+info,player,Chennai Super Kings,SV Samson
+info,player,Chennai Super Kings,RD Gaikwad
+info,player,Chennai Super Kings,Urvil Patel
+info,player,Chennai Super Kings,Kartik Sharma
+info,player,Chennai Super Kings,D Brevis
+info,player,Chennai Super Kings,S Dube
+info,player,Chennai Super Kings,J Overton
+info,player,Chennai Super Kings,RS Ghosh
+info,player,Chennai Super Kings,PR Veer
+info,player,Chennai Super Kings,Noor Ahmad
+info,player,Chennai Super Kings,A Kamboj
+info,registry,people,A Kamboj,fcc21ace
+info,registry,people,AM Ghazanfar,9ca68676
+info,registry,people,Amit Sharma,7ea3e0cc
+info,registry,people,D Brevis,844e79d1
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,J Overton,59559bc2
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,KM Gandhi,a9421c64
+info,registry,people,Kartik Sharma,7b679de5
+info,registry,people,Krish Bhagat,e48a4814
+info,registry,people,Mukesh Choudhary,765a4731
+info,registry,people,Naman Dhir,fffa744b
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,Noor Ahmad,efc04be7
+info,registry,people,PR Veer,e148e6bd
+info,registry,people,R Minz,bafd0398
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RS Ghosh,dee07622
+info,registry,people,Raghu Sharma,5b615e7c
+info,registry,people,S Dube,a4e37e47
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SN Khan,f088b960
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TM Srivastava,a76d10ba
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,Urvil Patel,cf59b3f0
+info,registry,people,Vinod Seshan,a3357a27
+info,registry,people,WG Jacks,9caf69a1

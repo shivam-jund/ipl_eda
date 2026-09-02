@@ -1,0 +1,80 @@
+version,2.3.0
+info,balls_per_over,6
+info,team,Chennai Super Kings
+info,team,Sunrisers Hyderabad
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/05/18
+info,event,Indian Premier League
+info,match_id,1529306
+info,match_type,T20
+info,overs,20
+info,match_number,63
+info,venue,"MA Chidambaram Stadium, Chepauk, Chennai"
+info,city,Chennai
+info,toss_winner,Chennai Super Kings
+info,toss_decision,bat
+info,player_of_match,Ishan Kishan
+info,umpire,Nitin Menon
+info,umpire,TM Srivastava
+info,reserve_umpire,KM Gandhi
+info,tv_umpire,Anish Sahasrabudhe
+info,match_referee,A Kripal Singh
+info,target_overs,2,20
+info,target_runs,2,181
+info,winner,Sunrisers Hyderabad
+info,winner_wickets,5
+info,player,Chennai Super Kings,Mukesh Choudhary
+info,player,Chennai Super Kings,SV Samson
+info,player,Chennai Super Kings,RD Gaikwad
+info,player,Chennai Super Kings,Urvil Patel
+info,player,Chennai Super Kings,Kartik Sharma
+info,player,Chennai Super Kings,D Brevis
+info,player,Chennai Super Kings,S Dube
+info,player,Chennai Super Kings,PR Veer
+info,player,Chennai Super Kings,AJ Hosein
+info,player,Chennai Super Kings,Noor Ahmad
+info,player,Chennai Super Kings,A Kamboj
+info,player,Chennai Super Kings,SH Johnson
+info,player,Sunrisers Hyderabad,Sakib Hussain
+info,player,Sunrisers Hyderabad,Abhishek Sharma
+info,player,Sunrisers Hyderabad,TM Head
+info,player,Sunrisers Hyderabad,Ishan Kishan
+info,player,Sunrisers Hyderabad,H Klaasen
+info,player,Sunrisers Hyderabad,Nithish Kumar Reddy
+info,player,Sunrisers Hyderabad,S Arora
+info,player,Sunrisers Hyderabad,R Smaran
+info,player,Sunrisers Hyderabad,PJ Cummins
+info,player,Sunrisers Hyderabad,Shivang Kumar
+info,player,Sunrisers Hyderabad,E Malinga
+info,player,Sunrisers Hyderabad,PP Hinge
+info,registry,people,A Kamboj,fcc21ace
+info,registry,people,A Kripal Singh,8f559207
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,Anish Sahasrabudhe,2892df67
+info,registry,people,D Brevis,844e79d1
+info,registry,people,E Malinga,5750bcb4
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,KM Gandhi,a9421c64
+info,registry,people,Kartik Sharma,7b679de5
+info,registry,people,Mukesh Choudhary,765a4731
+info,registry,people,Nithish Kumar Reddy,aad0c365
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,Noor Ahmad,efc04be7
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,PP Hinge,ece7b6b3
+info,registry,people,PR Veer,e148e6bd
+info,registry,people,R Smaran,c1e53c3f
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,S Arora,d7423da1
+info,registry,people,S Dube,a4e37e47
+info,registry,people,SH Johnson,83c3e8e3
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,Sakib Hussain,280fff14
+info,registry,people,Shivang Kumar,7b44eb3e
+info,registry,people,TM Head,12b610c2
+info,registry,people,TM Srivastava,a76d10ba
+info,registry,people,Urvil Patel,cf59b3f0

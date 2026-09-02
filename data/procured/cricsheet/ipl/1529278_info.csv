@@ -1,0 +1,83 @@
+version,2.3.0
+info,balls_per_over,6
+info,team,Delhi Capitals
+info,team,Punjab Kings
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/04/25
+info,event,Indian Premier League
+info,match_id,1529278
+info,match_type,T20
+info,overs,20
+info,match_number,35
+info,venue,"Arun Jaitley Stadium, Delhi"
+info,city,Delhi
+info,toss_winner,Delhi Capitals
+info,toss_decision,bat
+info,player_of_match,KL Rahul
+info,umpire,AK Argal
+info,umpire,VK Sharma
+info,reserve_umpire,HAS Khalid
+info,tv_umpire,K Swaroopanand
+info,match_referee,V Narayan Kutty
+info,target_overs,2,20
+info,target_runs,2,265
+info,winner,Punjab Kings
+info,winner_wickets,6
+info,player,Delhi Capitals,Auqib Nabi
+info,player,Delhi Capitals,V Nigam
+info,player,Delhi Capitals,P Nissanka
+info,player,Delhi Capitals,KL Rahul
+info,player,Delhi Capitals,N Rana
+info,player,Delhi Capitals,DA Miller
+info,player,Delhi Capitals,Sameer Rizvi
+info,player,Delhi Capitals,AR Patel
+info,player,Delhi Capitals,T Stubbs
+info,player,Delhi Capitals,L Ngidi
+info,player,Delhi Capitals,Kuldeep Yadav
+info,player,Delhi Capitals,T Natarajan
+info,player,Delhi Capitals,Mukesh Kumar
+info,player,Punjab Kings,YS Chahal
+info,player,Punjab Kings,Priyansh Arya
+info,player,Punjab Kings,P Simran Singh
+info,player,Punjab Kings,C Connolly
+info,player,Punjab Kings,SS Iyer
+info,player,Punjab Kings,N Wadhera
+info,player,Punjab Kings,Shashank Singh
+info,player,Punjab Kings,MP Stoinis
+info,player,Punjab Kings,M Jansen
+info,player,Punjab Kings,XC Bartlett
+info,player,Punjab Kings,Vijaykumar Vyshak
+info,player,Punjab Kings,Arshdeep Singh
+info,registry,people,AK Argal,0ee78cf3
+info,registry,people,AR Patel,2e171977
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,Auqib Nabi,7c3c0337
+info,registry,people,C Connolly,fe366f34
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,HAS Khalid,291ded7c
+info,registry,people,K Swaroopanand,aa2a4962
+info,registry,people,KK Nair,944533a5
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,Mukesh Kumar,2cffab74
+info,registry,people,N Rana,fb2d1dda
+info,registry,people,N Wadhera,d1a60072
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,P Simran Singh,9418198b
+info,registry,people,Priyansh Arya,b5797845
+info,registry,people,SS Iyer,85ec8e33
+info,registry,people,Sameer Rizvi,f89d3b11
+info,registry,people,Shashank Singh,26989d80
+info,registry,people,T Natarajan,ce794613
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,V Narayan Kutty,4bacee3d
+info,registry,people,V Nigam,5ffc0565
+info,registry,people,VK Sharma,a7a49df4
+info,registry,people,Vijaykumar Vyshak,54e52590
+info,registry,people,XC Bartlett,3b53243a
+info,registry,people,YS Chahal,57ee1fde

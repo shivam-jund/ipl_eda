@@ -1,0 +1,80 @@
+version,2.3.0
+info,balls_per_over,6
+info,team,Chennai Super Kings
+info,team,Delhi Capitals
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/04/11
+info,event,Indian Premier League
+info,match_id,1527691
+info,match_type,T20
+info,overs,20
+info,match_number,18
+info,venue,"MA Chidambaram Stadium, Chepauk, Chennai"
+info,city,Chennai
+info,toss_winner,Delhi Capitals
+info,toss_decision,field
+info,player_of_match,SV Samson
+info,umpire,MV Saidharshan Kumar
+info,umpire,Vinod Seshan
+info,reserve_umpire,Anish Sahasrabudhe
+info,tv_umpire,Nitin Menon
+info,match_referee,Shakti Singh
+info,target_overs,2,20
+info,target_runs,2,213
+info,winner,Chennai Super Kings
+info,winner_runs,23
+info,player,Chennai Super Kings,AJ Hosein
+info,player,Chennai Super Kings,SV Samson
+info,player,Chennai Super Kings,RD Gaikwad
+info,player,Chennai Super Kings,A Mhatre
+info,player,Chennai Super Kings,S Dube
+info,player,Chennai Super Kings,SN Khan
+info,player,Chennai Super Kings,D Brevis
+info,player,Chennai Super Kings,J Overton
+info,player,Chennai Super Kings,Noor Ahmad
+info,player,Chennai Super Kings,A Kamboj
+info,player,Chennai Super Kings,Gurjapneet Singh
+info,player,Chennai Super Kings,KK Ahmed
+info,player,Delhi Capitals,Mukesh Kumar
+info,player,Delhi Capitals,P Nissanka
+info,player,Delhi Capitals,KL Rahul
+info,player,Delhi Capitals,Sameer Rizvi
+info,player,Delhi Capitals,AR Patel
+info,player,Delhi Capitals,DA Miller
+info,player,Delhi Capitals,T Stubbs
+info,player,Delhi Capitals,Ashutosh Sharma
+info,player,Delhi Capitals,Auqib Nabi
+info,player,Delhi Capitals,Kuldeep Yadav
+info,player,Delhi Capitals,L Ngidi
+info,player,Delhi Capitals,T Natarajan
+info,registry,people,A Kamboj,fcc21ace
+info,registry,people,A Mhatre,b2b4f545
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AR Patel,2e171977
+info,registry,people,Anish Sahasrabudhe,2892df67
+info,registry,people,Ashutosh Sharma,84d9c311
+info,registry,people,Auqib Nabi,7c3c0337
+info,registry,people,D Brevis,844e79d1
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,Gurjapneet Singh,cc61ee8f
+info,registry,people,J Overton,59559bc2
+info,registry,people,KK Ahmed,a2f46292
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,MV Saidharshan Kumar,54b6007b
+info,registry,people,Mukesh Kumar,2cffab74
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,Noor Ahmad,efc04be7
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,S Dube,a4e37e47
+info,registry,people,SN Khan,f088b960
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,Sameer Rizvi,f89d3b11
+info,registry,people,Shakti Singh,eb90d319
+info,registry,people,T Natarajan,ce794613
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,Vinod Seshan,a3357a27

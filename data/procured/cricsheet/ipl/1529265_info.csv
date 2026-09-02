@@ -1,0 +1,80 @@
+version,2.3.0
+info,balls_per_over,6
+info,team,Chennai Super Kings
+info,team,Kolkata Knight Riders
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/04/14
+info,event,Indian Premier League
+info,match_id,1529265
+info,match_type,T20
+info,overs,20
+info,match_number,22
+info,venue,"MA Chidambaram Stadium, Chepauk, Chennai"
+info,city,Chennai
+info,toss_winner,Kolkata Knight Riders
+info,toss_decision,field
+info,player_of_match,Noor Ahmad
+info,umpire,Nitin Menon
+info,umpire,MV Saidharshan Kumar
+info,reserve_umpire,Anish Sahasrabudhe
+info,tv_umpire,Vinod Seshan
+info,match_referee,Shakti Singh
+info,target_overs,2,20
+info,target_runs,2,193
+info,winner,Chennai Super Kings
+info,winner_runs,32
+info,player,Chennai Super Kings,AJ Hosein
+info,player,Chennai Super Kings,SV Samson
+info,player,Chennai Super Kings,RD Gaikwad
+info,player,Chennai Super Kings,A Mhatre
+info,player,Chennai Super Kings,D Brevis
+info,player,Chennai Super Kings,SN Khan
+info,player,Chennai Super Kings,S Dube
+info,player,Chennai Super Kings,J Overton
+info,player,Chennai Super Kings,Noor Ahmad
+info,player,Chennai Super Kings,A Kamboj
+info,player,Chennai Super Kings,Gurjapneet Singh
+info,player,Chennai Super Kings,KK Ahmed
+info,player,Kolkata Knight Riders,CV Varun
+info,player,Kolkata Knight Riders,FH Allen
+info,player,Kolkata Knight Riders,SP Narine
+info,player,Kolkata Knight Riders,AM Rahane
+info,player,Kolkata Knight Riders,A Raghuvanshi
+info,player,Kolkata Knight Riders,RK Singh
+info,player,Kolkata Knight Riders,C Green
+info,player,Kolkata Knight Riders,R Powell
+info,player,Kolkata Knight Riders,Ramandeep Singh
+info,player,Kolkata Knight Riders,AS Roy
+info,player,Kolkata Knight Riders,VG Arora
+info,player,Kolkata Knight Riders,Kartik Tyagi
+info,registry,people,A Kamboj,fcc21ace
+info,registry,people,A Mhatre,b2b4f545
+info,registry,people,A Raghuvanshi,d7017798
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AM Rahane,29e95537
+info,registry,people,AS Roy,e4cdf230
+info,registry,people,Anish Sahasrabudhe,2892df67
+info,registry,people,C Green,eaa76d3c
+info,registry,people,CV Varun,5b7ab5a9
+info,registry,people,D Brevis,844e79d1
+info,registry,people,FH Allen,bf74b130
+info,registry,people,Gurjapneet Singh,cc61ee8f
+info,registry,people,J Overton,59559bc2
+info,registry,people,KK Ahmed,a2f46292
+info,registry,people,Kartik Tyagi,5d2eea49
+info,registry,people,MV Saidharshan Kumar,54b6007b
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,Noor Ahmad,efc04be7
+info,registry,people,R Powell,650d5e49
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,Ramandeep Singh,be24ead0
+info,registry,people,S Dube,a4e37e47
+info,registry,people,SN Khan,f088b960
+info,registry,people,SP Narine,9d430b40
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,Shakti Singh,eb90d319
+info,registry,people,VG Arora,7c3b3b78
+info,registry,people,Vinod Seshan,a3357a27

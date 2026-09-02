@@ -1,0 +1,80 @@
+version,2.3.0
+info,balls_per_over,6
+info,team,Mumbai Indians
+info,team,Sunrisers Hyderabad
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/04/29
+info,event,Indian Premier League
+info,match_id,1529284
+info,match_type,T20
+info,overs,20
+info,match_number,41
+info,venue,"Wankhede Stadium, Mumbai"
+info,city,Mumbai
+info,toss_winner,Mumbai Indians
+info,toss_decision,bat
+info,player_of_match,H Klaasen
+info,umpire,A Bengeri
+info,umpire,J Madanagopal
+info,reserve_umpire,Amit Rana
+info,tv_umpire,UV Gandhe
+info,match_referee,J Srinath
+info,target_overs,2,20
+info,target_runs,2,244
+info,winner,Sunrisers Hyderabad
+info,winner_wickets,6
+info,player,Mumbai Indians,SN Thakur
+info,player,Mumbai Indians,WG Jacks
+info,player,Mumbai Indians,RD Rickelton
+info,player,Mumbai Indians,SA Yadav
+info,player,Mumbai Indians,Naman Dhir
+info,player,Mumbai Indians,HH Pandya
+info,player,Mumbai Indians,Tilak Varma
+info,player,Mumbai Indians,R Minz
+info,player,Mumbai Indians,TA Boult
+info,player,Mumbai Indians,JJ Bumrah
+info,player,Mumbai Indians,AM Ghazanfar
+info,player,Mumbai Indians,Ashwani Kumar
+info,player,Sunrisers Hyderabad,Sakib Hussain
+info,player,Sunrisers Hyderabad,Aniket Verma
+info,player,Sunrisers Hyderabad,Abhishek Sharma
+info,player,Sunrisers Hyderabad,TM Head
+info,player,Sunrisers Hyderabad,Ishan Kishan
+info,player,Sunrisers Hyderabad,H Klaasen
+info,player,Sunrisers Hyderabad,Nithish Kumar Reddy
+info,player,Sunrisers Hyderabad,S Arora
+info,player,Sunrisers Hyderabad,PJ Cummins
+info,player,Sunrisers Hyderabad,Harsh Dubey
+info,player,Sunrisers Hyderabad,PP Hinge
+info,player,Sunrisers Hyderabad,E Malinga
+info,registry,people,A Bengeri,c109497d
+info,registry,people,AM Ghazanfar,9ca68676
+info,registry,people,Abhishek Sharma,f29185a1
+info,registry,people,Amit Rana,f5db088b
+info,registry,people,Aniket Verma,a3b0600d
+info,registry,people,Ashwani Kumar,d45c29b1
+info,registry,people,E Malinga,5750bcb4
+info,registry,people,H Klaasen,235c2bb6
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,Harsh Dubey,25228673
+info,registry,people,Ishan Kishan,752f7486
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,J Srinath,bad31fac
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,Naman Dhir,fffa744b
+info,registry,people,Nithish Kumar Reddy,aad0c365
+info,registry,people,PJ Cummins,ded9240e
+info,registry,people,PP Hinge,ece7b6b3
+info,registry,people,R Minz,bafd0398
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,S Arora,d7423da1
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SN Thakur,1abb78f8
+info,registry,people,Sakib Hussain,280fff14
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TM Head,12b610c2
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,UV Gandhe,43dd4011
+info,registry,people,WG Jacks,9caf69a1

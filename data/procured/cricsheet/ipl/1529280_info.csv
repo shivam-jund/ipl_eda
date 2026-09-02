@@ -1,0 +1,78 @@
+version,2.3.0
+info,balls_per_over,6
+info,team,Chennai Super Kings
+info,team,Gujarat Titans
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/04/26
+info,event,Indian Premier League
+info,match_id,1529280
+info,match_type,T20
+info,overs,20
+info,match_number,37
+info,venue,"MA Chidambaram Stadium, Chepauk, Chennai"
+info,city,Chennai
+info,toss_winner,Gujarat Titans
+info,toss_decision,field
+info,player_of_match,K Rabada
+info,umpire,AT Holdstock
+info,umpire,KN Ananthapadmanabhan
+info,reserve_umpire,Bhavesh Patel
+info,tv_umpire,A Totre
+info,match_referee,Prakash Bhatt
+info,target_overs,2,20
+info,target_runs,2,159
+info,winner,Gujarat Titans
+info,winner_wickets,8
+info,player,Chennai Super Kings,SV Samson
+info,player,Chennai Super Kings,RD Gaikwad
+info,player,Chennai Super Kings,Urvil Patel
+info,player,Chennai Super Kings,SN Khan
+info,player,Chennai Super Kings,D Brevis
+info,player,Chennai Super Kings,S Dube
+info,player,Chennai Super Kings,Kartik Sharma
+info,player,Chennai Super Kings,J Overton
+info,player,Chennai Super Kings,AJ Hosein
+info,player,Chennai Super Kings,Noor Ahmad
+info,player,Chennai Super Kings,A Kamboj
+info,player,Chennai Super Kings,Gurjapneet Singh
+info,player,Gujarat Titans,B Sai Sudharsan
+info,player,Gujarat Titans,Shubman Gill
+info,player,Gujarat Titans,JC Buttler
+info,player,Gujarat Titans,Washington Sundar
+info,player,Gujarat Titans,M Shahrukh Khan
+info,player,Gujarat Titans,JO Holder
+info,player,Gujarat Titans,Rashid Khan
+info,player,Gujarat Titans,Arshad Khan
+info,player,Gujarat Titans,K Rabada
+info,player,Gujarat Titans,Mohammed Siraj
+info,player,Gujarat Titans,MJ Suthar
+info,registry,people,A Kamboj,fcc21ace
+info,registry,people,A Totre,b1d7d7bc
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,Arshad Khan,12314277
+info,registry,people,B Sai Sudharsan,d5130a30
+info,registry,people,Bhavesh Patel,ee03dc30
+info,registry,people,D Brevis,844e79d1
+info,registry,people,Gurjapneet Singh,cc61ee8f
+info,registry,people,J Overton,59559bc2
+info,registry,people,JC Buttler,99b75528
+info,registry,people,JO Holder,0f721006
+info,registry,people,K Rabada,e62dd25d
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,Kartik Sharma,7b679de5
+info,registry,people,M Shahrukh Khan,7dcb9bc9
+info,registry,people,MJ Suthar,025c4400
+info,registry,people,Mohammed Siraj,2f49c897
+info,registry,people,Noor Ahmad,efc04be7
+info,registry,people,Prakash Bhatt,f848ab0b
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,Rashid Khan,5f547c8b
+info,registry,people,S Dube,a4e37e47
+info,registry,people,SN Khan,f088b960
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,Shubman Gill,b4b99816
+info,registry,people,Urvil Patel,cf59b3f0
+info,registry,people,Washington Sundar,f19ccfad

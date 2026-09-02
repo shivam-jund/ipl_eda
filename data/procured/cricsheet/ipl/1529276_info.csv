@@ -1,0 +1,82 @@
+version,2.3.0
+info,balls_per_over,6
+info,team,Chennai Super Kings
+info,team,Mumbai Indians
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/04/23
+info,event,Indian Premier League
+info,match_id,1529276
+info,match_type,T20
+info,overs,20
+info,match_number,33
+info,venue,"Wankhede Stadium, Mumbai"
+info,city,Mumbai
+info,toss_winner,Mumbai Indians
+info,toss_decision,field
+info,player_of_match,SV Samson
+info,umpire,AT Holdstock
+info,umpire,P Joshi
+info,reserve_umpire,Bhavesh Patel
+info,tv_umpire,KN Ananthapadmanabhan
+info,match_referee,Prakash Bhatt
+info,target_overs,2,20
+info,target_runs,2,208
+info,winner,Chennai Super Kings
+info,winner_runs,103
+info,player,Chennai Super Kings,SV Samson
+info,player,Chennai Super Kings,RD Gaikwad
+info,player,Chennai Super Kings,SN Khan
+info,player,Chennai Super Kings,S Dube
+info,player,Chennai Super Kings,D Brevis
+info,player,Chennai Super Kings,Kartik Sharma
+info,player,Chennai Super Kings,J Overton
+info,player,Chennai Super Kings,AJ Hosein
+info,player,Chennai Super Kings,Noor Ahmad
+info,player,Chennai Super Kings,A Kamboj
+info,player,Chennai Super Kings,Mukesh Choudhary
+info,player,Chennai Super Kings,Gurjapneet Singh
+info,player,Mumbai Indians,MJ Santner
+info,player,Mumbai Indians,AM Ghazanfar
+info,player,Mumbai Indians,Q de Kock
+info,player,Mumbai Indians,DV Malewar
+info,player,Mumbai Indians,Naman Dhir
+info,player,Mumbai Indians,SA Yadav
+info,player,Mumbai Indians,Tilak Varma
+info,player,Mumbai Indians,HH Pandya
+info,player,Mumbai Indians,SE Rutherford
+info,player,Mumbai Indians,SN Thakur
+info,player,Mumbai Indians,Krish Bhagat
+info,player,Mumbai Indians,Ashwani Kumar
+info,player,Mumbai Indians,JJ Bumrah
+info,registry,people,A Kamboj,fcc21ace
+info,registry,people,AJ Hosein,4d7f517e
+info,registry,people,AM Ghazanfar,9ca68676
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,Ashwani Kumar,d45c29b1
+info,registry,people,Bhavesh Patel,ee03dc30
+info,registry,people,D Brevis,844e79d1
+info,registry,people,DV Malewar,9e6032fa
+info,registry,people,Gurjapneet Singh,cc61ee8f
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,J Overton,59559bc2
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,KN Ananthapadmanabhan,3144063a
+info,registry,people,Kartik Sharma,7b679de5
+info,registry,people,Krish Bhagat,e48a4814
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,Mukesh Choudhary,765a4731
+info,registry,people,Naman Dhir,fffa744b
+info,registry,people,Noor Ahmad,efc04be7
+info,registry,people,P Joshi,ffc0e370
+info,registry,people,Prakash Bhatt,f848ab0b
+info,registry,people,Q de Kock,372455c4
+info,registry,people,RD Gaikwad,45a43fe2
+info,registry,people,S Dube,a4e37e47
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SE Rutherford,d014d5ac
+info,registry,people,SN Khan,f088b960
+info,registry,people,SN Thakur,1abb78f8
+info,registry,people,SV Samson,a4cc73aa
+info,registry,people,Tilak Varma,b0482a1d

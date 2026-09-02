@@ -1,0 +1,80 @@
+version,2.3.0
+info,balls_per_over,6
+info,team,Royal Challengers Bengaluru
+info,team,Mumbai Indians
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/04/12
+info,event,Indian Premier League
+info,match_id,1527693
+info,match_type,T20
+info,overs,20
+info,match_number,20
+info,venue,"Wankhede Stadium, Mumbai"
+info,city,Mumbai
+info,toss_winner,Mumbai Indians
+info,toss_decision,field
+info,player_of_match,PD Salt
+info,umpire,K Swaroopanand
+info,umpire,VK Sharma
+info,reserve_umpire,M Krishnadas
+info,tv_umpire,HDPK Dharmasena
+info,match_referee,V Narayan Kutty
+info,target_overs,2,20
+info,target_runs,2,241
+info,winner,Royal Challengers Bengaluru
+info,winner_runs,18
+info,player,Royal Challengers Bengaluru,Rasikh Salam
+info,player,Royal Challengers Bengaluru,PD Salt
+info,player,Royal Challengers Bengaluru,V Kohli
+info,player,Royal Challengers Bengaluru,RM Patidar
+info,player,Royal Challengers Bengaluru,TH David
+info,player,Royal Challengers Bengaluru,JM Sharma
+info,player,Royal Challengers Bengaluru,R Shepherd
+info,player,Royal Challengers Bengaluru,D Padikkal
+info,player,Royal Challengers Bengaluru,KH Pandya
+info,player,Royal Challengers Bengaluru,B Kumar
+info,player,Royal Challengers Bengaluru,JA Duffy
+info,player,Royal Challengers Bengaluru,Suyash Sharma
+info,player,Mumbai Indians,M Markande
+info,player,Mumbai Indians,RD Rickelton
+info,player,Mumbai Indians,RG Sharma
+info,player,Mumbai Indians,SA Yadav
+info,player,Mumbai Indians,Tilak Varma
+info,player,Mumbai Indians,HH Pandya
+info,player,Mumbai Indians,SE Rutherford
+info,player,Mumbai Indians,Naman Dhir
+info,player,Mumbai Indians,MJ Santner
+info,player,Mumbai Indians,SN Thakur
+info,player,Mumbai Indians,JJ Bumrah
+info,player,Mumbai Indians,TA Boult
+info,registry,people,B Kumar,2e81a32d
+info,registry,people,D Padikkal,2c25d4f5
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,JA Duffy,dadbdb68
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,JM Sharma,800d2d97
+info,registry,people,K Swaroopanand,aa2a4962
+info,registry,people,KH Pandya,5b8c830e
+info,registry,people,M Krishnadas,e298c588
+info,registry,people,M Markande,a9fd84fb
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,Naman Dhir,fffa744b
+info,registry,people,PD Salt,3d284ca3
+info,registry,people,R Shepherd,c5aef772
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RM Patidar,c740ea83
+info,registry,people,Rasikh Salam,b8527c3d
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SE Rutherford,d014d5ac
+info,registry,people,SN Thakur,1abb78f8
+info,registry,people,Suyash Sharma,9440ef41
+info,registry,people,TA Boult,a818c1be
+info,registry,people,TH David,f1f99156
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,V Kohli,ba607b88
+info,registry,people,V Narayan Kutty,4bacee3d
+info,registry,people,VK Sharma,a7a49df4

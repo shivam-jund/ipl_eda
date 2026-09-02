@@ -1,0 +1,80 @@
+version,2.3.0
+info,balls_per_over,6
+info,team,Punjab Kings
+info,team,Lucknow Super Giants
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/04/19
+info,event,Indian Premier League
+info,match_id,1529272
+info,match_type,T20
+info,overs,20
+info,match_number,29
+info,venue,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh"
+info,city,New Chandigarh
+info,toss_winner,Lucknow Super Giants
+info,toss_decision,field
+info,player_of_match,Priyansh Arya
+info,umpire,J Madanagopal
+info,umpire,K Kelkar
+info,reserve_umpire,UV Gandhe
+info,tv_umpire,R Pandit
+info,match_referee,J Srinath
+info,target_overs,2,20
+info,target_runs,2,255
+info,winner,Punjab Kings
+info,winner_runs,54
+info,player,Punjab Kings,Vijaykumar Vyshak
+info,player,Punjab Kings,Priyansh Arya
+info,player,Punjab Kings,P Simran Singh
+info,player,Punjab Kings,C Connolly
+info,player,Punjab Kings,SS Iyer
+info,player,Punjab Kings,MP Stoinis
+info,player,Punjab Kings,N Wadhera
+info,player,Punjab Kings,Shashank Singh
+info,player,Punjab Kings,M Jansen
+info,player,Punjab Kings,XC Bartlett
+info,player,Punjab Kings,Arshdeep Singh
+info,player,Punjab Kings,YS Chahal
+info,player,Lucknow Super Giants,Mohsin Khan
+info,player,Lucknow Super Giants,MR Marsh
+info,player,Lucknow Super Giants,A Badoni
+info,player,Lucknow Super Giants,RR Pant
+info,player,Lucknow Super Giants,N Pooran
+info,player,Lucknow Super Giants,AK Markram
+info,player,Lucknow Super Giants,MD Choudhary
+info,player,Lucknow Super Giants,Himmat Singh
+info,player,Lucknow Super Giants,Mohammed Shami
+info,player,Lucknow Super Giants,Avesh Khan
+info,player,Lucknow Super Giants,Prince Yadav
+info,player,Lucknow Super Giants,M Siddharth
+info,registry,people,A Badoni,872b03f7
+info,registry,people,AK Markram,6a26221c
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,Avesh Khan,eef2536f
+info,registry,people,C Connolly,fe366f34
+info,registry,people,Himmat Singh,ebcfef83
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,J Srinath,bad31fac
+info,registry,people,K Kelkar,1d88908d
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,M Siddharth,cf0ccafa
+info,registry,people,MD Choudhary,1c84109e
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,Mohammed Shami,8cf9814c
+info,registry,people,Mohsin Khan,c33d8116
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,N Wadhera,d1a60072
+info,registry,people,P Simran Singh,9418198b
+info,registry,people,Prince Yadav,80b2fb19
+info,registry,people,Priyansh Arya,b5797845
+info,registry,people,R Pandit,8a604384
+info,registry,people,RR Pant,919a3be2
+info,registry,people,SS Iyer,85ec8e33
+info,registry,people,Shashank Singh,26989d80
+info,registry,people,UV Gandhe,43dd4011
+info,registry,people,Vijaykumar Vyshak,54e52590
+info,registry,people,XC Bartlett,3b53243a
+info,registry,people,YS Chahal,57ee1fde

@@ -1,0 +1,81 @@
+version,2.3.0
+info,balls_per_over,6
+info,team,Kolkata Knight Riders
+info,team,Mumbai Indians
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/03/29
+info,event,Indian Premier League
+info,match_id,1527675
+info,match_type,T20
+info,overs,20
+info,match_number,2
+info,venue,"Wankhede Stadium, Mumbai"
+info,city,Mumbai
+info,toss_winner,Mumbai Indians
+info,toss_decision,field
+info,player_of_match,SN Thakur
+info,umpire,Anish Sahasrabudhe
+info,umpire,MV Saidharshan Kumar
+info,reserve_umpire,Vinod Seshan
+info,tv_umpire,Nitin Menon
+info,match_referee,Shakti Singh
+info,target_overs,2,20
+info,target_runs,2,221
+info,winner,Mumbai Indians
+info,winner_wickets,6
+info,player,Kolkata Knight Riders,Kartik Tyagi
+info,player,Kolkata Knight Riders,AM Rahane
+info,player,Kolkata Knight Riders,FH Allen
+info,player,Kolkata Knight Riders,C Green
+info,player,Kolkata Knight Riders,A Raghuvanshi
+info,player,Kolkata Knight Riders,RK Singh
+info,player,Kolkata Knight Riders,Ramandeep Singh
+info,player,Kolkata Knight Riders,AS Roy
+info,player,Kolkata Knight Riders,SP Narine
+info,player,Kolkata Knight Riders,CV Varun
+info,player,Kolkata Knight Riders,VG Arora
+info,player,Kolkata Knight Riders,B Muzarabani
+info,player,Mumbai Indians,JJ Bumrah
+info,player,Mumbai Indians,RD Rickelton
+info,player,Mumbai Indians,RG Sharma
+info,player,Mumbai Indians,SA Yadav
+info,player,Mumbai Indians,Tilak Varma
+info,player,Mumbai Indians,HH Pandya
+info,player,Mumbai Indians,Naman Dhir
+info,player,Mumbai Indians,SE Rutherford
+info,player,Mumbai Indians,SN Thakur
+info,player,Mumbai Indians,M Markande
+info,player,Mumbai Indians,AM Ghazanfar
+info,player,Mumbai Indians,TA Boult
+info,registry,people,A Raghuvanshi,d7017798
+info,registry,people,AM Ghazanfar,9ca68676
+info,registry,people,AM Rahane,29e95537
+info,registry,people,AS Roy,e4cdf230
+info,registry,people,Anish Sahasrabudhe,2892df67
+info,registry,people,B Muzarabani,449f4e3c
+info,registry,people,C Green,eaa76d3c
+info,registry,people,CV Varun,5b7ab5a9
+info,registry,people,FH Allen,bf74b130
+info,registry,people,HH Pandya,dbe50b21
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,Kartik Tyagi,5d2eea49
+info,registry,people,M Markande,a9fd84fb
+info,registry,people,MK Pandey,93b4fc78
+info,registry,people,MV Saidharshan Kumar,54b6007b
+info,registry,people,Naman Dhir,fffa744b
+info,registry,people,Nitin Menon,e1d41d9e
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RG Sharma,740742ef
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,Ramandeep Singh,be24ead0
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SE Rutherford,d014d5ac
+info,registry,people,SN Thakur,1abb78f8
+info,registry,people,SP Narine,9d430b40
+info,registry,people,Shakti Singh,eb90d319
+info,registry,people,TA Boult,a818c1be
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,VG Arora,7c3b3b78
+info,registry,people,Vinod Seshan,a3357a27

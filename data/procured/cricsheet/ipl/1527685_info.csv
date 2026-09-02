@@ -1,0 +1,72 @@
+version,2.3.0
+info,balls_per_over,6
+info,team,Kolkata Knight Riders
+info,team,Punjab Kings
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/04/06
+info,event,Indian Premier League
+info,match_id,1527685
+info,match_type,T20
+info,overs,20
+info,match_number,12
+info,venue,"Eden Gardens, Kolkata"
+info,city,Kolkata
+info,toss_winner,Kolkata Knight Riders
+info,toss_decision,bat
+info,umpire,A Bengeri
+info,umpire,J Madanagopal
+info,reserve_umpire,UV Gandhe
+info,tv_umpire,R Pandit
+info,match_referee,J Srinath
+info,outcome,no result
+info,player,Kolkata Knight Riders,AM Rahane
+info,player,Kolkata Knight Riders,FH Allen
+info,player,Kolkata Knight Riders,C Green
+info,player,Kolkata Knight Riders,A Raghuvanshi
+info,player,Kolkata Knight Riders,R Powell
+info,player,Kolkata Knight Riders,RK Singh
+info,player,Kolkata Knight Riders,Ramandeep Singh
+info,player,Kolkata Knight Riders,AS Roy
+info,player,Kolkata Knight Riders,Navdeep Saini
+info,player,Kolkata Knight Riders,VG Arora
+info,player,Kolkata Knight Riders,Kartik Tyagi
+info,player,Punjab Kings,SS Iyer
+info,player,Punjab Kings,P Simran Singh
+info,player,Punjab Kings,N Wadhera
+info,player,Punjab Kings,C Connolly
+info,player,Punjab Kings,Shashank Singh
+info,player,Punjab Kings,MP Stoinis
+info,player,Punjab Kings,M Jansen
+info,player,Punjab Kings,Vijaykumar Vyshak
+info,player,Punjab Kings,XC Bartlett
+info,player,Punjab Kings,Arshdeep Singh
+info,player,Punjab Kings,YS Chahal
+info,registry,people,A Bengeri,c109497d
+info,registry,people,A Raghuvanshi,d7017798
+info,registry,people,AM Rahane,29e95537
+info,registry,people,AS Roy,e4cdf230
+info,registry,people,Arshdeep Singh,244048f6
+info,registry,people,C Connolly,fe366f34
+info,registry,people,C Green,eaa76d3c
+info,registry,people,FH Allen,bf74b130
+info,registry,people,J Madanagopal,8275b04a
+info,registry,people,J Srinath,bad31fac
+info,registry,people,Kartik Tyagi,5d2eea49
+info,registry,people,M Jansen,81c36ee9
+info,registry,people,MP Stoinis,d9273ee7
+info,registry,people,N Wadhera,d1a60072
+info,registry,people,Navdeep Saini,21d4e29b
+info,registry,people,P Simran Singh,9418198b
+info,registry,people,R Pandit,8a604384
+info,registry,people,R Powell,650d5e49
+info,registry,people,RK Singh,0a509d6b
+info,registry,people,Ramandeep Singh,be24ead0
+info,registry,people,SS Iyer,85ec8e33
+info,registry,people,Shashank Singh,26989d80
+info,registry,people,UV Gandhe,43dd4011
+info,registry,people,VG Arora,7c3b3b78
+info,registry,people,Vijaykumar Vyshak,54e52590
+info,registry,people,XC Bartlett,3b53243a
+info,registry,people,YS Chahal,57ee1fde

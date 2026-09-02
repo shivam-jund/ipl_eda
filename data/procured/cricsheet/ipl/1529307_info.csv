@@ -1,0 +1,80 @@
+version,2.3.0
+info,balls_per_over,6
+info,team,Lucknow Super Giants
+info,team,Rajasthan Royals
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/05/19
+info,event,Indian Premier League
+info,match_id,1529307
+info,match_type,T20
+info,overs,20
+info,match_number,64
+info,venue,"Sawai Mansingh Stadium, Jaipur"
+info,city,Jaipur
+info,toss_winner,Rajasthan Royals
+info,toss_decision,field
+info,player_of_match,V Suryavanshi
+info,umpire,AT Holdstock
+info,umpire,P Joshi
+info,reserve_umpire,A Totre
+info,tv_umpire,Bhavesh Patel
+info,match_referee,IR Siddiqui
+info,target_overs,2,20
+info,target_runs,2,221
+info,winner,Rajasthan Royals
+info,winner_wickets,7
+info,player,Lucknow Super Giants,DS Rathi
+info,player,Lucknow Super Giants,MR Marsh
+info,player,Lucknow Super Giants,JP Inglis
+info,player,Lucknow Super Giants,N Pooran
+info,player,Lucknow Super Giants,RR Pant
+info,player,Lucknow Super Giants,Abdul Samad
+info,player,Lucknow Super Giants,A Badoni
+info,player,Lucknow Super Giants,Shahbaz Ahmed
+info,player,Lucknow Super Giants,Mohsin Khan
+info,player,Lucknow Super Giants,MP Yadav
+info,player,Lucknow Super Giants,Akash Singh
+info,player,Lucknow Super Giants,Prince Yadav
+info,player,Rajasthan Royals,Yash Raj Punja
+info,player,Rajasthan Royals,YBK Jaiswal
+info,player,Rajasthan Royals,V Suryavanshi
+info,player,Rajasthan Royals,Dhruv Jurel
+info,player,Rajasthan Royals,LG Pretorius
+info,player,Rajasthan Royals,D Ferreira
+info,player,Rajasthan Royals,SB Dubey
+info,player,Rajasthan Royals,MD Shanaka
+info,player,Rajasthan Royals,JC Archer
+info,player,Rajasthan Royals,Sandeep Sharma
+info,player,Rajasthan Royals,SS Mishra
+info,player,Rajasthan Royals,Brijesh Sharma
+info,registry,people,A Badoni,872b03f7
+info,registry,people,A Totre,b1d7d7bc
+info,registry,people,AT Holdstock,6fa3258c
+info,registry,people,Abdul Samad,8e514b4c
+info,registry,people,Akash Singh,b483905d
+info,registry,people,Bhavesh Patel,ee03dc30
+info,registry,people,Brijesh Sharma,133bbd61
+info,registry,people,D Ferreira,f0af99a7
+info,registry,people,DS Rathi,13fc5c6d
+info,registry,people,Dhruv Jurel,bcf325d2
+info,registry,people,IR Siddiqui,6436f803
+info,registry,people,JC Archer,5574750c
+info,registry,people,JP Inglis,989889ff
+info,registry,people,LG Pretorius,60aa2db3
+info,registry,people,MD Shanaka,3ff033bb
+info,registry,people,MP Yadav,b1ad996b
+info,registry,people,MR Marsh,3d8feaf8
+info,registry,people,Mohsin Khan,c33d8116
+info,registry,people,N Pooran,3241e3fd
+info,registry,people,P Joshi,ffc0e370
+info,registry,people,Prince Yadav,80b2fb19
+info,registry,people,RR Pant,919a3be2
+info,registry,people,SB Dubey,6b2ff18f
+info,registry,people,SS Mishra,92500ad5
+info,registry,people,Sandeep Sharma,ce820073
+info,registry,people,Shahbaz Ahmed,f9e6e7ef
+info,registry,people,V Suryavanshi,470f446b
+info,registry,people,YBK Jaiswal,6c19c6e5
+info,registry,people,Yash Raj Punja,02dfebbe

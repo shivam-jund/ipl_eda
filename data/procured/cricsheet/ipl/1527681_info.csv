@@ -1,0 +1,80 @@
+version,2.3.0
+info,balls_per_over,6
+info,team,Mumbai Indians
+info,team,Delhi Capitals
+info,team_type,club
+info,gender,male
+info,season,2026
+info,date,2026/04/04
+info,event,Indian Premier League
+info,match_id,1527681
+info,match_type,T20
+info,overs,20
+info,match_number,8
+info,venue,"Arun Jaitley Stadium, Delhi"
+info,city,Delhi
+info,toss_winner,Delhi Capitals
+info,toss_decision,field
+info,player_of_match,Sameer Rizvi
+info,umpire,HDPK Dharmasena
+info,umpire,M Krishnadas
+info,reserve_umpire,K Swaroopanand
+info,tv_umpire,VK Sharma
+info,match_referee,V Narayan Kutty
+info,target_overs,2,20
+info,target_runs,2,163
+info,winner,Delhi Capitals
+info,winner_wickets,6
+info,player,Mumbai Indians,M Markande
+info,player,Mumbai Indians,RD Rickelton
+info,player,Mumbai Indians,RG Sharma
+info,player,Mumbai Indians,Tilak Varma
+info,player,Mumbai Indians,SA Yadav
+info,player,Mumbai Indians,SE Rutherford
+info,player,Mumbai Indians,Naman Dhir
+info,player,Mumbai Indians,MJ Santner
+info,player,Mumbai Indians,C Bosch
+info,player,Mumbai Indians,SN Thakur
+info,player,Mumbai Indians,DL Chahar
+info,player,Mumbai Indians,JJ Bumrah
+info,player,Delhi Capitals,Mukesh Kumar
+info,player,Delhi Capitals,KL Rahul
+info,player,Delhi Capitals,P Nissanka
+info,player,Delhi Capitals,N Rana
+info,player,Delhi Capitals,Sameer Rizvi
+info,player,Delhi Capitals,DA Miller
+info,player,Delhi Capitals,T Stubbs
+info,player,Delhi Capitals,V Nigam
+info,player,Delhi Capitals,AR Patel
+info,player,Delhi Capitals,Kuldeep Yadav
+info,player,Delhi Capitals,L Ngidi
+info,player,Delhi Capitals,T Natarajan
+info,registry,people,AR Patel,2e171977
+info,registry,people,C Bosch,172dff15
+info,registry,people,DA Miller,d67d5f00
+info,registry,people,DL Chahar,23eeb873
+info,registry,people,HDPK Dharmasena,323e4c16
+info,registry,people,JJ Bumrah,462411b3
+info,registry,people,K Swaroopanand,aa2a4962
+info,registry,people,KL Rahul,b17e2f24
+info,registry,people,Kuldeep Yadav,8d2c70ad
+info,registry,people,L Ngidi,f834dcfc
+info,registry,people,M Krishnadas,e298c588
+info,registry,people,M Markande,a9fd84fb
+info,registry,people,MJ Santner,e4a0deae
+info,registry,people,Mukesh Kumar,2cffab74
+info,registry,people,N Rana,fb2d1dda
+info,registry,people,Naman Dhir,fffa744b
+info,registry,people,P Nissanka,8ee36b18
+info,registry,people,RD Rickelton,e66732f8
+info,registry,people,RG Sharma,740742ef
+info,registry,people,SA Yadav,271f83cd
+info,registry,people,SE Rutherford,d014d5ac
+info,registry,people,SN Thakur,1abb78f8
+info,registry,people,Sameer Rizvi,f89d3b11
+info,registry,people,T Natarajan,ce794613
+info,registry,people,T Stubbs,85b3fab2
+info,registry,people,Tilak Varma,b0482a1d
+info,registry,people,V Narayan Kutty,4bacee3d
+info,registry,people,V Nigam,5ffc0565
+info,registry,people,VK Sharma,a7a49df4
