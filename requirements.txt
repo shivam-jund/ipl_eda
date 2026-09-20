@@ -1,0 +1,8 @@
+# Notebook 01 was last run with pandas 3.0.2, numpy 2.4.4, matplotlib 3.10.8, seaborn 0.13.2.
+pandas
+numpy
+matplotlib
+seaborn
+jupyter
+# SQL engine for the later window-function / period-over-period sessions (DuckDB chosen over SQLite).
+duckdb
