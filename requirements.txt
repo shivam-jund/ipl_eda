@@ -1,8 +1,10 @@
-# Notebook 01 was last run with pandas 3.0.2, numpy 2.4.4, matplotlib 3.10.8, seaborn 0.13.2.
-pandas
-numpy
-matplotlib
-seaborn
+# Pinned to the versions the notebooks were run with (Python 3.12).
+pandas==3.0.2
+numpy==2.4.4
+matplotlib==3.10.8
+seaborn==0.13.2
 jupyter
-# SQL engine for the later window-function / period-over-period sessions (DuckDB chosen over SQLite).
+# SQL engine for the later window-function sessions (DuckDB chosen over SQLite); pin it once it is first run.
 duckdb
+# This project's own code in src/ (editable install, so `import ipl_eda` works in notebooks).
+-e .
