@@ -13,21 +13,24 @@ from pathlib import Path
 
 import pandas as pd
 
-# key -> (max rows per match, number of value fields).  Encoded from the key survey in notebook 02.
-# A max of None means a list that may repeat freely (players, registry).
+# key -> (min rows per match, max rows per match, number of value fields).
+# Encoded from the key survey in notebook 02, which also asserts that every entry agrees with the survey.
+#   min 0         = optional key;  min 1 or more = the key must be present in every match
+#   max None      = a list that may repeat freely (players, registry)
 SCHEMA = {
-    # one row in every match
-    "balls_per_over": (1, 1), "event": (1, 1), "gender": (1, 1), "match_type": (1, 1), "overs": (1, 1),
-    "team_type": (1, 1), "match_id": (1, 1), "season": (1, 1), "venue": (1, 1), "city": (1, 1),
-    "toss_winner": (1, 1), "toss_decision": (1, 1), "match_referee": (1, 1),
+    # exactly one row in every match
+    "balls_per_over": (1, 1, 1), "event": (1, 1, 1), "gender": (1, 1, 1), "match_type": (1, 1, 1),
+    "overs": (1, 1, 1), "team_type": (1, 1, 1), "match_id": (1, 1, 1), "season": (1, 1, 1),
+    "venue": (1, 1, 1), "city": (1, 1, 1), "toss_winner": (1, 1, 1), "toss_decision": (1, 1, 1),
+    "match_referee": (1, 1, 1),
     # optional: at most one row
-    "match_number": (1, 1), "player_of_match": (1, 1), "tv_umpire": (1, 1), "reserve_umpire": (1, 1),
-    "winner": (1, 1), "winner_runs": (1, 1), "winner_wickets": (1, 1),
-    "outcome": (1, 1), "method": (1, 1), "eliminator": (1, 1),
-    "target_overs": (1, 2), "target_runs": (1, 2),          # first field is the innings number
+    "match_number": (0, 1, 1), "player_of_match": (0, 1, 1), "tv_umpire": (0, 1, 1),
+    "reserve_umpire": (0, 1, 1), "winner": (0, 1, 1), "winner_runs": (0, 1, 1),
+    "winner_wickets": (0, 1, 1), "outcome": (0, 1, 1), "method": (0, 1, 1), "eliminator": (0, 1, 1),
+    "target_overs": (0, 1, 2), "target_runs": (0, 1, 2),          # first field is the innings number
     # repeating
-    "team": (2, 1), "umpire": (2, 1), "date": (2, 1), "super_over": (4, 1),
-    "player": (None, 2), "registry": (None, 3),
+    "team": (2, 2, 1), "umpire": (2, 2, 1), "date": (1, 2, 1), "super_over": (0, 4, 1),
+    "player": (22, None, 2), "registry": (26, None, 3),
 }
 
 # Same value in all 1,243 matches (notebook 02 asserts this), so they are listed, not turned into columns.
@@ -72,8 +75,11 @@ def read_info_folder(folder):
     (None where a line has fewer fields). The version line is not an info line, so it
     is returned separately as a Series indexed by match_id.
     """
+    paths = sorted(Path(folder).glob("*_info.csv"))
+    if not paths:
+        raise FileNotFoundError(f"no *_info.csv files in {folder} - wrong folder?")
     records, versions = [], {}
-    for path in sorted(Path(folder).glob("*_info.csv")):
+    for path in paths:
         match_id = int(path.name.split("_")[0])
         versions[match_id], rows = read_info_file(path)
         records += [(match_id, *row) for row in rows]
@@ -82,25 +88,37 @@ def read_info_folder(folder):
 
 
 def check_schema(long):
-    """Raise ValueError if the long table breaks SCHEMA: unknown key, wrong field count, key repeated too often."""
+    """Raise ValueError if the long table breaks SCHEMA.
+
+    That means: an unknown key, a line with the wrong number of value fields, or a key with too few
+    or too many rows in some match - a required key missing from a match counts as too few.
+    """
+    if long.empty:
+        raise ValueError("the long table is empty: no info lines were read")
+
     unknown = sorted(set(long["key"]) - set(SCHEMA))
     if unknown:
         raise ValueError(f"unknown info key(s): {unknown}")
 
     n_fields = long[["value1", "value2", "value3"]].notna().sum(axis=1)
-    wrong = long[n_fields != long["key"].map({k: v[1] for k, v in SCHEMA.items()})]
+    wrong = long[n_fields != long["key"].map({k: v[2] for k, v in SCHEMA.items()})]
     if len(wrong):
         first = wrong.iloc[0]
         raise ValueError(f"{len(wrong)} line(s) with the wrong number of value fields, "
                          f"first: match {first['match_id']}, key {first['key']!r}")
 
-    counts = long.groupby(["match_id", "key"]).size().rename("rows").reset_index()
-    max_rows = {k: (v[0] if v[0] is not None else float("inf")) for k, v in SCHEMA.items()}
-    too_many = counts[counts["rows"] > counts["key"].map(max_rows)]
-    if len(too_many):
-        first = too_many.iloc[0]
-        raise ValueError(f"{len(too_many)} key(s) repeated more often than allowed, "
-                         f"first: match {first['match_id']}, key {first['key']!r}, {first['rows']} rows")
+    rows = long.groupby(["match_id", "key"]).size().unstack(fill_value=0)     # one row per match, one column per key
+    for key, (min_rows, max_rows, _) in SCHEMA.items():
+        count = rows[key] if key in rows.columns else pd.Series(0, index=rows.index)
+        too_few = count[count < min_rows]
+        if len(too_few):
+            raise ValueError(f"key {key!r} has fewer than {min_rows} row(s) in {len(too_few)} match(es), "
+                             f"first: match {too_few.index[0]} has {too_few.iloc[0]}")
+        if max_rows is not None:
+            too_many = count[count > max_rows]
+            if len(too_many):
+                raise ValueError(f"key {key!r} has more than {max_rows} row(s) in {len(too_many)} match(es), "
+                                 f"first: match {too_many.index[0]} has {too_many.iloc[0]}")
 
 
 def build_matches(long):
@@ -112,6 +130,10 @@ def build_matches(long):
         matches[key] = long[long["key"] == key].set_index("match_id")["value1"]
     for key in TWO_FIELD_COLUMNS:
         matches[key] = long[long["key"] == key].set_index("match_id")["value2"]
+
+    # A blank field (`info,city,`) is a missing value here. A CSV cannot tell "" from missing, and `long` still holds the raw ""
+    for col in SINGLE_COLUMNS + TWO_FIELD_COLUMNS:
+        matches[col] = matches[col].mask(matches[col] == "")
 
     # repeating keys: number the rows within each match, then spread them over columns
     teams = long[long["key"] == "team"].assign(n=lambda d: d.groupby("match_id").cumcount() + 1)
