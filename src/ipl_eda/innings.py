@@ -23,8 +23,9 @@ def build_innings(deliveries):
     d["wicket"] = d["wicket_type"].notna() & ~d["wicket_type"].isin(NOT_WICKETS)
 
     groups = d.groupby(["match_id", "innings"])
-    if (groups["batting_team"].nunique() != 1).any():
-        raise ValueError("an innings has more than one batting team")
+    for column in ("batting_team", "bowling_team"):         # the table takes one value per innings, so check there is only one
+        if (groups[column].nunique() != 1).any():
+            raise ValueError(f"an innings has more than one {column}")
 
     table = groups.agg(
         batting_team=("batting_team", "first"), bowling_team=("bowling_team", "first"),
