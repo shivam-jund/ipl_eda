@@ -9,14 +9,22 @@ import pandas as pd
 TEAM_COLUMNS = ["batting_team", "bowling_team", "team1", "team2", "toss_winner", "winner", "eliminator"]
 
 
+def _no_blanks(table, path):
+    """A reference table must be filled in everywhere: a blank key would silently turn into a missing value in every row that uses it."""
+    blanks = table.isna().sum()
+    if blanks.any():
+        raise ValueError(f"{path}: blank value(s) in {blanks[blanks > 0].to_dict()}")
+    return table
+
+
 def read_teams(path):
-    """teams.csv: text columns `team` (raw string) and `franchise`. Only an empty field is missing."""
-    return pd.read_csv(path, dtype=str, keep_default_na=False, na_values=[""])
+    """teams.csv: text columns `team` (raw string) and `franchise`. A blank in either column raises."""
+    return _no_blanks(pd.read_csv(path, dtype=str, keep_default_na=False, na_values=[""]), path)
 
 
 def read_seasons(path):
-    """seasons.csv: `season` (raw label, text) and `season_year` (integer)."""
-    return pd.read_csv(path, dtype={"season": str, "season_year": "int64"}, keep_default_na=False, na_values=[""])
+    """seasons.csv: `season` (raw label, text) and `season_year` (integer). A blank in either column raises."""
+    return _no_blanks(pd.read_csv(path, dtype={"season": str, "season_year": "int64"}, keep_default_na=False, na_values=[""]), path)
 
 
 def _lookup(values, mapping, what):
